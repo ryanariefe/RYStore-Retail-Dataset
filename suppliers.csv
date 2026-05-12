@@ -1,0 +1,13 @@
+supplier_id,supplier_name,main_category,city,postcode,email,lead_time_days
+SUP001,FreshFields Produce,Produce,Preston,PR1 7HK,contact1@freshfieldsproduce.co.uk,2
+SUP002,Northern Dairy Co,Beverages,Liverpool,L1 8EL,contact2@northerndairyco.co.uk,4
+SUP003,OceanLine Seafood,Mixed,Manchester,M1 8FB,contact3@oceanlineseafood.co.uk,5
+SUP004,Bakers Guild Ltd,Produce,Birmingham,B1 7CK,contact4@bakersguildltd.co.uk,7
+SUP005,Britannia Pantry,Frozen,Nottingham,NG1 5LE,contact5@britanniapantry.co.uk,9
+SUP006,GreenLeaf Organics,Grocery,Leeds,LS1 6CH,contact6@greenleaforganics.co.uk,5
+SUP007,HouseCare Wholesale,Frozen,York,YO1 1KA,contact7@housecarewholesale.co.uk,5
+SUP008,Daily Essentials UK,Bakery,Leeds,LS1 5JF,contact8@dailyessentialsuk.co.uk,5
+SUP009,Urban Snacks Ltd,Mixed,Birmingham,B1 8GH,contact9@urbansnacksltd.co.uk,3
+SUP010,Prime Meat Supply,Household,Preston,PR1 9CD,contact10@primemeatsupply.co.uk,8
+SUP011,World Foods Import,Produce,Liverpool,L1 1HE,contact11@worldfoodsimport.co.uk,3
+SUP012,RYStore Private Label,Dairy,Newcastle,NE1 3GK,contact12@rystoreprivatelabel.co.uk,7

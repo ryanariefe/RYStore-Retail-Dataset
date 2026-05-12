@@ -1,0 +1,78 @@
+table,column,description
+stores.csv,store_id,Unique or foreign key identifier depending on table context.
+stores.csv,store_name,Categorical or descriptive attribute.
+stores.csv,city,Categorical or descriptive attribute.
+stores.csv,region,Categorical or descriptive attribute.
+stores.csv,postcode,Categorical or descriptive attribute.
+stores.csv,store_format,Categorical or descriptive attribute.
+stores.csv,opening_date,Date/time value in ISO-style format.
+stores.csv,staff_count,Integer count or threshold.
+suppliers.csv,supplier_id,Unique or foreign key identifier depending on table context.
+suppliers.csv,supplier_name,Categorical or descriptive attribute.
+suppliers.csv,main_category,Categorical or descriptive attribute.
+suppliers.csv,city,Categorical or descriptive attribute.
+suppliers.csv,postcode,Categorical or descriptive attribute.
+suppliers.csv,email,Categorical or descriptive attribute.
+suppliers.csv,lead_time_days,Integer count or threshold.
+products.csv,product_id,Unique or foreign key identifier depending on table context.
+products.csv,product_name,Categorical or descriptive attribute.
+products.csv,category,Categorical or descriptive attribute.
+products.csv,brand,Categorical or descriptive attribute.
+products.csv,supplier_id,Unique or foreign key identifier depending on table context.
+products.csv,unit_cost,Currency value in GBP.
+products.csv,unit_price,Currency value in GBP.
+products.csv,vat_rate,UK-style VAT rate or VAT amount depending on column.
+products.csv,reorder_level,Integer count or threshold.
+products.csv,active,Categorical or descriptive attribute.
+customers.csv,customer_id,Unique or foreign key identifier depending on table context.
+customers.csv,first_name,Categorical or descriptive attribute.
+customers.csv,last_name,Categorical or descriptive attribute.
+customers.csv,email,Categorical or descriptive attribute.
+customers.csv,city,Categorical or descriptive attribute.
+customers.csv,postcode_area,Categorical or descriptive attribute.
+customers.csv,signup_date,Date/time value in ISO-style format.
+customers.csv,loyalty_tier,Categorical or descriptive attribute.
+customers.csv,customer_segment,Categorical or descriptive attribute.
+customers.csv,marketing_opt_in,Categorical or descriptive attribute.
+employees.csv,employee_id,Unique or foreign key identifier depending on table context.
+employees.csv,first_name,Categorical or descriptive attribute.
+employees.csv,last_name,Categorical or descriptive attribute.
+employees.csv,store_id,Unique or foreign key identifier depending on table context.
+employees.csv,role,Categorical or descriptive attribute.
+employees.csv,hire_date,Date/time value in ISO-style format.
+employees.csv,contract_type,Categorical or descriptive attribute.
+employees.csv,annual_salary,Currency value in GBP.
+promotions.csv,promotion_id,Unique or foreign key identifier depending on table context.
+promotions.csv,promotion_name,Categorical or descriptive attribute.
+promotions.csv,start_date,Date/time value in ISO-style format.
+promotions.csv,end_date,Date/time value in ISO-style format.
+promotions.csv,discount_type,Integer count or threshold.
+promotions.csv,discount_value,Integer count or threshold.
+promotions.csv,category,Categorical or descriptive attribute.
+orders.csv,order_id,Unique or foreign key identifier depending on table context.
+orders.csv,order_datetime,Date/time value in ISO-style format.
+orders.csv,store_id,Unique or foreign key identifier depending on table context.
+orders.csv,customer_id,Unique or foreign key identifier depending on table context.
+orders.csv,order_channel,Categorical or descriptive attribute.
+orders.csv,payment_method,Categorical or descriptive attribute.
+orders.csv,order_status,Categorical or descriptive attribute.
+orders.csv,subtotal,Currency value in GBP.
+orders.csv,discount_total,Currency value in GBP.
+orders.csv,vat_total,Currency value in GBP.
+orders.csv,delivery_fee,Currency value in GBP.
+orders.csv,total_amount,Currency value in GBP.
+order_items.csv,order_item_id,Unique or foreign key identifier depending on table context.
+order_items.csv,order_id,Unique or foreign key identifier depending on table context.
+order_items.csv,product_id,Unique or foreign key identifier depending on table context.
+order_items.csv,quantity,Integer count or threshold.
+order_items.csv,unit_price,Currency value in GBP.
+order_items.csv,discount_amount,Currency value in GBP.
+order_items.csv,line_net_amount,Currency value in GBP.
+order_items.csv,line_vat_amount,Currency value in GBP.
+order_items.csv,promotion_id,Unique or foreign key identifier depending on table context.
+inventory.csv,store_id,Unique or foreign key identifier depending on table context.
+inventory.csv,product_id,Unique or foreign key identifier depending on table context.
+inventory.csv,stock_on_hand,Integer count or threshold.
+inventory.csv,stock_on_order,Integer count or threshold.
+inventory.csv,last_restock_date,Date/time value in ISO-style format.
+inventory.csv,aisle_location,Categorical or descriptive attribute.

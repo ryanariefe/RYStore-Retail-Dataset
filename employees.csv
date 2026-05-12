@@ -1,0 +1,121 @@
+employee_id,first_name,last_name,store_id,role,hire_date,contract_type,annual_salary
+EMP0001,Ethan,Green,ST005,Supervisor,2024-06-19,Full-time,25509
+EMP0002,Ben,Thomas,ST002,Online Picker,2023-01-20,Part-time,20951
+EMP0003,Jade,Patel,ST002,Online Picker,2024-03-21,Part-time,18964
+EMP0004,Uma,Edwards,ST001,Customer Service,2020-04-02,Part-time,22252
+EMP0005,Ismail,Wood,ST005,Store Manager,2019-05-30,Full-time,35149
+EMP0006,Tara,Wright,ST006,Supervisor,2020-05-11,Part-time,24748
+EMP0007,Tara,Patel,ST008,Cashier,2019-12-03,Full-time,19431
+EMP0008,Hannah,Wood,ST001,Customer Service,2025-02-07,Full-time,19657
+EMP0009,Ruby,Hughes,ST002,Online Picker,2022-05-03,Full-time,22179
+EMP0010,Sam,Cooper,ST003,Supervisor,2025-03-31,Part-time,27180
+EMP0011,Noah,Wilson,ST007,Store Manager,2021-09-09,Part-time,44606
+EMP0012,Chloe,Arief,ST008,Stock Assistant,2021-01-08,Part-time,22164
+EMP0013,Adam,Morris,ST006,Online Picker,2021-02-06,Full-time,18759
+EMP0014,Liam,Jones,ST004,Stock Assistant,2022-12-29,Part-time,21079
+EMP0015,Xavier,Roberts,ST003,Cashier,2022-07-15,Part-time,18599
+EMP0016,George,Ward,ST006,Supervisor,2019-03-26,Full-time,25181
+EMP0017,Zara,White,ST008,Customer Service,2019-02-09,Full-time,22827
+EMP0018,Ben,Ward,ST005,Store Manager,2019-03-08,Part-time,34133
+EMP0019,Nina,Jackson,ST007,Customer Service,2023-09-21,Part-time,23811
+EMP0020,Xavier,Thomas,ST008,Customer Service,2021-11-04,Full-time,22232
+EMP0021,Ethan,Martin,ST001,Supervisor,2021-01-01,Part-time,27382
+EMP0022,Liam,Green,ST004,Customer Service,2024-07-11,Full-time,23321
+EMP0023,Jay,Green,ST005,Cashier,2022-01-24,Full-time,19340
+EMP0024,Ella,Hill,ST008,Supervisor,2021-08-28,Part-time,24380
+EMP0025,Ella,Harris,ST001,Online Picker,2022-09-10,Part-time,22203
+EMP0026,Hannah,Smith,ST003,Supervisor,2022-05-02,Full-time,28477
+EMP0027,Chloe,Smith,ST008,Supervisor,2023-04-25,Full-time,23640
+EMP0028,Owen,Cooper,ST005,Customer Service,2025-10-05,Full-time,22043
+EMP0029,Theo,Ward,ST003,Store Manager,2021-01-27,Full-time,33871
+EMP0030,Maya,Thompson,ST008,Stock Assistant,2019-12-01,Full-time,18526
+EMP0031,Ruby,Brown,ST002,Cashier,2021-11-01,Full-time,21671
+EMP0032,Ella,Hughes,ST002,Customer Service,2024-01-13,Full-time,23159
+EMP0033,Sophie,Johnson,ST008,Assistant Manager,2022-09-08,Full-time,32991
+EMP0034,Tara,Clarke,ST004,Customer Service,2021-03-23,Full-time,20040
+EMP0035,Zara,Brown,ST007,Supervisor,2019-03-12,Part-time,23028
+EMP0036,Olivia,Brown,ST004,Assistant Manager,2019-08-03,Part-time,30866
+EMP0037,Sam,Roberts,ST007,Supervisor,2024-10-02,Part-time,28440
+EMP0038,Uma,Cooper,ST007,Stock Assistant,2022-05-12,Part-time,20484
+EMP0039,Zara,Wilson,ST008,Cashier,2020-08-26,Part-time,20504
+EMP0040,Priya,Patel,ST002,Stock Assistant,2024-08-14,Full-time,21297
+EMP0041,Willow,Jackson,ST006,Online Picker,2022-02-13,Full-time,21479
+EMP0042,Ethan,Wilson,ST001,Store Manager,2023-11-07,Part-time,38828
+EMP0043,Theo,Brown,ST006,Stock Assistant,2023-01-20,Part-time,18687
+EMP0044,Xavier,Arief,ST007,Store Manager,2025-05-26,Full-time,33239
+EMP0045,Maya,Smith,ST005,Cashier,2020-03-19,Full-time,20915
+EMP0046,Victor,White,ST003,Supervisor,2019-12-04,Part-time,27287
+EMP0047,Kai,Evans,ST004,Customer Service,2022-08-29,Part-time,23741
+EMP0048,Ismail,Roberts,ST006,Online Picker,2025-03-09,Full-time,18919
+EMP0049,Victor,Thomas,ST005,Store Manager,2022-05-02,Full-time,33327
+EMP0050,Owen,Arief,ST005,Stock Assistant,2022-07-25,Part-time,22173
+EMP0051,Aisha,Hughes,ST002,Cashier,2025-10-30,Part-time,18948
+EMP0052,Ella,Green,ST002,Online Picker,2021-10-10,Part-time,21147
+EMP0053,Priya,Arief,ST007,Stock Assistant,2021-08-07,Part-time,19121
+EMP0054,Ruby,Khan,ST003,Assistant Manager,2019-07-05,Full-time,28537
+EMP0055,Willow,Davies,ST007,Assistant Manager,2023-10-03,Full-time,30639
+EMP0056,Nina,Davies,ST003,Supervisor,2020-02-04,Full-time,23791
+EMP0057,Victor,Smith,ST007,Customer Service,2021-10-07,Full-time,22118
+EMP0058,Yasmin,Patel,ST007,Store Manager,2019-06-12,Full-time,41157
+EMP0059,Mia,Hughes,ST008,Cashier,2021-11-15,Part-time,21502
+EMP0060,Sam,Clarke,ST005,Stock Assistant,2020-06-14,Full-time,21815
+EMP0061,Ben,Morris,ST006,Customer Service,2025-09-08,Part-time,20076
+EMP0062,Ella,Johnson,ST001,Assistant Manager,2023-12-24,Full-time,30721
+EMP0063,Yasmin,Clarke,ST006,Stock Assistant,2024-11-15,Part-time,21726
+EMP0064,Ismail,Wright,ST006,Online Picker,2019-10-11,Full-time,21240
+EMP0065,Zara,Roberts,ST001,Customer Service,2021-12-15,Part-time,19873
+EMP0066,Sam,Ward,ST008,Store Manager,2024-10-21,Part-time,40345
+EMP0067,Grace,Patel,ST005,Online Picker,2024-03-31,Full-time,22942
+EMP0068,Qasim,Cooper,ST002,Stock Assistant,2022-05-31,Full-time,21717
+EMP0069,Owen,Green,ST003,Store Manager,2024-03-03,Full-time,34175
+EMP0070,Grace,Martin,ST002,Cashier,2023-06-18,Full-time,20010
+EMP0071,Ethan,Wright,ST004,Cashier,2023-03-20,Full-time,19359
+EMP0072,Maya,Roberts,ST002,Online Picker,2019-01-30,Part-time,20464
+EMP0073,Ryan,Morris,ST007,Stock Assistant,2024-03-08,Part-time,21119
+EMP0074,Noah,Harris,ST005,Customer Service,2022-11-23,Full-time,20015
+EMP0075,Tara,Smith,ST007,Cashier,2021-03-23,Full-time,20066
+EMP0076,Sophie,Lewis,ST001,Customer Service,2021-02-14,Part-time,22015
+EMP0077,Uma,Khan,ST001,Customer Service,2021-09-10,Full-time,23467
+EMP0078,Ella,Evans,ST005,Stock Assistant,2019-03-28,Part-time,19627
+EMP0079,Lucas,Thompson,ST007,Online Picker,2023-10-20,Full-time,19294
+EMP0080,Chloe,Khan,ST001,Cashier,2019-02-10,Full-time,20153
+EMP0081,Lucas,Jones,ST002,Assistant Manager,2020-11-13,Part-time,27474
+EMP0082,Ismail,Hughes,ST005,Cashier,2020-02-09,Full-time,18917
+EMP0083,Nina,Patel,ST004,Customer Service,2025-09-01,Full-time,20272
+EMP0084,Lucas,Clarke,ST003,Assistant Manager,2020-11-02,Full-time,31979
+EMP0085,Ben,Green,ST005,Store Manager,2023-12-25,Part-time,34125
+EMP0086,Jay,Khan,ST008,Online Picker,2022-10-22,Part-time,21777
+EMP0087,Maya,Smith,ST004,Supervisor,2021-12-29,Part-time,23414
+EMP0088,Liam,Cooper,ST005,Customer Service,2025-02-11,Part-time,21767
+EMP0089,Ethan,Roberts,ST006,Assistant Manager,2022-01-23,Part-time,28067
+EMP0090,Lucas,Smith,ST007,Store Manager,2020-08-30,Part-time,33041
+EMP0091,Adam,Khan,ST005,Online Picker,2025-09-09,Full-time,22495
+EMP0092,Yasmin,Cooper,ST006,Online Picker,2025-05-30,Full-time,20316
+EMP0093,Ben,Ward,ST005,Store Manager,2025-04-03,Full-time,43492
+EMP0094,Noah,Walker,ST007,Stock Assistant,2020-05-26,Part-time,20215
+EMP0095,Theo,Arief,ST005,Store Manager,2023-09-28,Full-time,37170
+EMP0096,Lucas,Taylor,ST003,Cashier,2022-10-17,Part-time,19723
+EMP0097,Tara,Harris,ST002,Cashier,2020-02-23,Full-time,21650
+EMP0098,Olivia,Thomas,ST002,Cashier,2022-03-09,Full-time,19329
+EMP0099,Yasmin,Arief,ST008,Cashier,2021-02-15,Part-time,21592
+EMP0100,George,Harris,ST005,Store Manager,2022-07-19,Full-time,44116
+EMP0101,Willow,Hill,ST002,Cashier,2020-07-15,Full-time,19080
+EMP0102,Jay,Johnson,ST004,Store Manager,2021-09-14,Full-time,36319
+EMP0103,Nina,Roberts,ST006,Online Picker,2019-12-13,Part-time,20629
+EMP0104,Willow,Arief,ST002,Store Manager,2024-02-11,Part-time,39466
+EMP0105,Ella,Thompson,ST006,Cashier,2024-07-18,Part-time,20176
+EMP0106,Ben,Walker,ST002,Online Picker,2022-06-18,Part-time,18931
+EMP0107,Ruby,Smith,ST004,Assistant Manager,2019-09-25,Part-time,31256
+EMP0108,Ismail,Khan,ST006,Stock Assistant,2020-03-28,Part-time,19310
+EMP0109,Xavier,Walker,ST003,Store Manager,2024-07-04,Full-time,44462
+EMP0110,Owen,Walker,ST007,Assistant Manager,2019-04-17,Full-time,33223
+EMP0111,George,Jackson,ST008,Customer Service,2022-11-20,Full-time,23779
+EMP0112,Owen,Taylor,ST001,Customer Service,2019-03-15,Full-time,19376
+EMP0113,Olivia,Evans,ST001,Store Manager,2020-11-30,Part-time,41833
+EMP0114,Jade,Wood,ST004,Online Picker,2024-07-07,Part-time,22567
+EMP0115,Amelia,Green,ST003,Stock Assistant,2024-10-01,Full-time,19603
+EMP0116,Ben,Taylor,ST002,Cashier,2022-02-10,Full-time,18831
+EMP0117,Ella,Brown,ST004,Store Manager,2019-11-05,Full-time,38534
+EMP0118,Leo,Clarke,ST006,Stock Assistant,2020-03-14,Part-time,19194
+EMP0119,Zara,Smith,ST002,Cashier,2019-12-29,Full-time,21755
+EMP0120,Nina,Hill,ST002,Online Picker,2022-08-20,Full-time,18937

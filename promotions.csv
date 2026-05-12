@@ -1,0 +1,7 @@
+promotion_id,promotion_name,start_date,end_date,discount_type,discount_value,category
+PROMO001,January Value Deals,2025-01-01,2025-01-31,Percentage,10,Grocery
+PROMO002,Fresh Start Healthy Eating,2025-02-01,2025-02-28,Percentage,15,Fresh Produce
+PROMO003,Easter Bakery Offers,2025-04-01,2025-04-21,Percentage,12,Bakery
+PROMO004,Summer BBQ,2025-06-01,2025-08-31,Percentage,10,Meat & Fish
+PROMO005,Back to Uni,2025-09-01,2025-09-30,Fixed,0.3,Snacks
+PROMO006,Christmas Essentials,2025-12-01,2025-12-24,Percentage,8,Beverages

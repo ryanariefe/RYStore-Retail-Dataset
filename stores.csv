@@ -1,0 +1,9 @@
+store_id,store_name,city,region,postcode,store_format,opening_date,staff_count
+ST001,RYStore Manchester Central,Manchester,Greater Manchester,M1 1AA,Large Supermarket,2021-03-15,58
+ST002,RYStore Salford Quays,Salford,Greater Manchester,M5 3AB,Convenience,2022-07-04,24
+ST003,RYStore Leeds Market,Leeds,West Yorkshire,LS1 4CD,Large Supermarket,2020-10-21,64
+ST004,RYStore Liverpool Dock,Liverpool,Merseyside,L1 8EF,Medium Supermarket,2023-01-09,42
+ST005,RYStore Sheffield Moor,Sheffield,South Yorkshire,S1 2GH,Medium Supermarket,2022-04-12,39
+ST006,RYStore Birmingham Bullring,Birmingham,West Midlands,B1 1JK,Large Supermarket,2019-11-18,71
+ST007,RYStore Nottingham Lace,Nottingham,Nottinghamshire,NG1 5LM,Convenience,2023-09-01,21
+ST008,RYStore York Foss,York,North Yorkshire,YO1 7NP,Medium Supermarket,2021-08-30,36

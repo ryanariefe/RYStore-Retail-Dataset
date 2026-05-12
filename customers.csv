@@ -1,0 +1,801 @@
+customer_id,first_name,last_name,email,city,postcode_area,signup_date,loyalty_tier,customer_segment,marketing_opt_in
+CUST00001,Sophie,Jackson,sophie.jackson1@examplemail.com,York,YO1 8KC,2024-06-02,Silver,Health-focused,False
+CUST00002,Uma,Hughes,uma.hughes2@examplemail.com,Newcastle,NE1 2GL,2023-07-28,Bronze,Family shopper,True
+CUST00003,Kai,Lewis,kai.lewis3@examplemail.com,Liverpool,L1 6JG,2024-03-13,Bronze,Budget-conscious,True
+CUST00004,Jade,Evans,jade.evans4@examplemail.com,Liverpool,L1 2LK,2021-04-12,Silver,Health-focused,False
+CUST00005,Sam,Cooper,sam.cooper5@examplemail.com,Manchester,M1 7BF,2023-03-22,Silver,Family shopper,True
+CUST00006,Jade,Johnson,jade.johnson6@examplemail.com,York,YO1 1CC,2025-05-11,Bronze,Convenience shopper,True
+CUST00007,Ismail,White,ismail.white7@examplemail.com,Nottingham,NG1 2DB,2021-07-13,Bronze,Premium buyer,True
+CUST00008,Sam,Wood,sam.wood8@examplemail.com,Sheffield,S1 2FJ,2023-12-29,Silver,Convenience shopper,True
+CUST00009,Olivia,Hughes,olivia.hughes9@examplemail.com,Sheffield,S1 7DB,2021-01-26,Silver,Convenience shopper,True
+CUST00010,Grace,Patel,grace.patel10@examplemail.com,Preston,PR1 5FB,2023-03-29,Silver,Family shopper,True
+CUST00011,Owen,White,owen.white11@examplemail.com,Manchester,M1 1AL,2021-06-03,Bronze,Premium buyer,True
+CUST00012,Kai,Wood,kai.wood12@examplemail.com,Manchester,M1 8CA,2023-01-05,Bronze,Family shopper,True
+CUST00013,Liam,Taylor,liam.taylor13@examplemail.com,Liverpool,L1 7JA,2023-03-03,Silver,Family shopper,True
+CUST00014,Aisha,Martin,aisha.martin14@examplemail.com,Manchester,M1 3BG,2024-11-05,Gold,Budget-conscious,True
+CUST00015,Adam,Wood,adam.wood15@examplemail.com,Leeds,LS1 1JC,2024-07-02,Bronze,Budget-conscious,True
+CUST00016,Jay,Wright,jay.wright16@examplemail.com,York,YO1 7LH,2022-11-19,Bronze,Premium buyer,False
+CUST00017,Willow,Clarke,willow.clarke17@examplemail.com,Salford,M5 3BH,2021-10-12,Bronze,Budget-conscious,True
+CUST00018,Emma,Ward,emma.ward18@examplemail.com,Newcastle,NE1 2JB,2022-09-24,Bronze,Health-focused,True
+CUST00019,Uma,Morris,uma.morris19@examplemail.com,Manchester,M1 9GJ,2024-03-25,Bronze,Family shopper,True
+CUST00020,Chloe,Green,chloe.green20@examplemail.com,Manchester,M1 1DC,2024-08-16,Bronze,Health-focused,False
+CUST00021,Zara,Brown,zara.brown21@examplemail.com,Manchester,M1 2HE,2023-02-06,Silver,Premium buyer,False
+CUST00022,Kai,Hill,kai.hill22@examplemail.com,Leeds,LS1 3HL,2021-02-26,Bronze,Student,False
+CUST00023,Kai,Thomas,kai.thomas23@examplemail.com,Newcastle,NE1 1HK,2024-10-02,Silver,Premium buyer,True
+CUST00024,Qasim,Wilson,qasim.wilson24@examplemail.com,York,YO1 9GC,2023-12-01,Bronze,Student,False
+CUST00025,Tara,Brown,tara.brown25@examplemail.com,Manchester,M1 6JJ,2023-07-27,Bronze,Budget-conscious,True
+CUST00026,Emma,Ward,emma.ward26@examplemail.com,Manchester,M1 1FG,2021-09-19,Bronze,Family shopper,True
+CUST00027,Ella,Ward,ella.ward27@examplemail.com,Salford,M5 6HG,2021-07-30,Bronze,Health-focused,True
+CUST00028,Hannah,Harris,hannah.harris28@examplemail.com,Nottingham,NG1 4LD,2024-01-18,Silver,Student,True
+CUST00029,Xavier,Wilson,xavier.wilson29@examplemail.com,Newcastle,NE1 7DB,2024-05-10,Silver,Convenience shopper,True
+CUST00030,Ismail,Cooper,ismail.cooper30@examplemail.com,Preston,PR1 2LG,2024-04-26,Silver,Premium buyer,True
+CUST00031,Maya,Arief,maya.arief31@examplemail.com,York,YO1 6GL,2022-01-02,Silver,Family shopper,True
+CUST00032,Sam,Edwards,sam.edwards32@examplemail.com,Sheffield,S1 7FF,2021-11-14,Bronze,Budget-conscious,True
+CUST00033,Ruby,White,ruby.white33@examplemail.com,Preston,PR1 5HC,2021-04-09,Bronze,Budget-conscious,False
+CUST00034,Zara,Walker,zara.walker34@examplemail.com,Salford,M5 2GJ,2021-09-05,Silver,Budget-conscious,False
+CUST00035,Ethan,Martin,ethan.martin35@examplemail.com,Newcastle,NE1 2GB,2022-06-17,Silver,Premium buyer,False
+CUST00036,Noah,Johnson,noah.johnson36@examplemail.com,Manchester,M1 8GE,2023-06-29,Platinum,Convenience shopper,True
+CUST00037,Sophie,Khan,sophie.khan37@examplemail.com,Liverpool,L1 8GE,2023-08-26,Silver,Student,True
+CUST00038,Sophie,Green,sophie.green38@examplemail.com,Manchester,M1 8EC,2023-10-23,Silver,Family shopper,True
+CUST00039,Amelia,Khan,amelia.khan39@examplemail.com,Newcastle,NE1 9KA,2025-05-16,Gold,Budget-conscious,True
+CUST00040,Sam,Khan,sam.khan40@examplemail.com,Liverpool,L1 6AJ,2021-02-28,Bronze,Family shopper,True
+CUST00041,Ismail,Clarke,ismail.clarke41@examplemail.com,York,YO1 1GL,2023-07-19,Gold,Student,True
+CUST00042,Aisha,Brown,aisha.brown42@examplemail.com,Sheffield,S1 4BJ,2021-03-27,Bronze,Student,False
+CUST00043,Grace,Harris,grace.harris43@examplemail.com,Sheffield,S1 7FK,2022-12-19,Bronze,Health-focused,True
+CUST00044,Farah,Thompson,farah.thompson44@examplemail.com,Birmingham,B1 8FB,2023-09-23,Silver,Family shopper,True
+CUST00045,Owen,Harris,owen.harris45@examplemail.com,Birmingham,B1 7AC,2022-08-14,Bronze,Family shopper,False
+CUST00046,Willow,Johnson,willow.johnson46@examplemail.com,Salford,M5 4KB,2023-03-08,Bronze,Premium buyer,False
+CUST00047,Chloe,Hughes,chloe.hughes47@examplemail.com,Sheffield,S1 2DL,2023-09-28,Bronze,Family shopper,True
+CUST00048,Yasmin,Hill,yasmin.hill48@examplemail.com,Newcastle,NE1 4GG,2022-01-26,Silver,Family shopper,True
+CUST00049,Willow,Thompson,willow.thompson49@examplemail.com,Leeds,LS1 4KL,2025-03-26,Gold,Student,True
+CUST00050,Ethan,Jackson,ethan.jackson50@examplemail.com,Leeds,LS1 7LL,2022-01-23,Bronze,Convenience shopper,True
+CUST00051,Mia,Ward,mia.ward51@examplemail.com,Liverpool,L1 6FH,2025-06-05,Gold,Convenience shopper,False
+CUST00052,Kai,Morris,kai.morris52@examplemail.com,York,YO1 8JB,2022-05-12,Bronze,Premium buyer,True
+CUST00053,Emma,Taylor,emma.taylor53@examplemail.com,Manchester,M1 5DE,2021-08-12,Silver,Student,True
+CUST00054,Ruby,Hughes,ruby.hughes54@examplemail.com,Birmingham,B1 3BA,2025-08-02,Bronze,Premium buyer,True
+CUST00055,Yasmin,Green,yasmin.green55@examplemail.com,Preston,PR1 3GD,2021-02-17,Bronze,Premium buyer,True
+CUST00056,Jade,Jones,jade.jones56@examplemail.com,Birmingham,B1 3LA,2024-08-21,Silver,Premium buyer,True
+CUST00057,Ethan,Hill,ethan.hill57@examplemail.com,Manchester,M1 1HJ,2024-09-12,Platinum,Premium buyer,True
+CUST00058,Sam,Wood,sam.wood58@examplemail.com,Preston,PR1 5KC,2024-03-27,Silver,Premium buyer,True
+CUST00059,Victor,Jones,victor.jones59@examplemail.com,Sheffield,S1 5LF,2024-12-15,Platinum,Student,False
+CUST00060,Farah,Davies,farah.davies60@examplemail.com,Nottingham,NG1 7CE,2022-10-04,Silver,Budget-conscious,True
+CUST00061,Owen,Green,owen.green61@examplemail.com,Leeds,LS1 6GE,2025-10-01,Bronze,Family shopper,True
+CUST00062,Liam,Clarke,liam.clarke62@examplemail.com,Leeds,LS1 3KJ,2021-04-13,Bronze,Convenience shopper,True
+CUST00063,Ella,Evans,ella.evans63@examplemail.com,Birmingham,B1 5EB,2023-08-03,Silver,Family shopper,True
+CUST00064,Victor,Cooper,victor.cooper64@examplemail.com,Salford,M5 4HJ,2024-08-17,Bronze,Student,True
+CUST00065,Theo,Davies,theo.davies65@examplemail.com,Newcastle,NE1 9GL,2024-10-08,Bronze,Student,True
+CUST00066,Amelia,Jackson,amelia.jackson66@examplemail.com,Manchester,M1 8EJ,2023-02-05,Bronze,Premium buyer,False
+CUST00067,Willow,Davies,willow.davies67@examplemail.com,Preston,PR1 3DG,2024-04-06,Silver,Premium buyer,True
+CUST00068,Qasim,Patel,qasim.patel68@examplemail.com,Birmingham,B1 5GD,2021-08-20,Bronze,Family shopper,True
+CUST00069,Kai,Harris,kai.harris69@examplemail.com,Manchester,M1 3FK,2023-10-26,Silver,Family shopper,False
+CUST00070,Jay,Wood,jay.wood70@examplemail.com,Salford,M5 6HD,2021-12-07,Bronze,Premium buyer,True
+CUST00071,Grace,Edwards,grace.edwards71@examplemail.com,Leeds,LS1 5JC,2021-02-05,Gold,Convenience shopper,True
+CUST00072,Ismail,Thompson,ismail.thompson72@examplemail.com,Sheffield,S1 7CC,2024-03-28,Bronze,Premium buyer,True
+CUST00073,Ryan,Thompson,ryan.thompson73@examplemail.com,Nottingham,NG1 1AK,2025-12-16,Bronze,Family shopper,False
+CUST00074,Qasim,Johnson,qasim.johnson74@examplemail.com,Liverpool,L1 8GD,2024-04-26,Silver,Health-focused,True
+CUST00075,Willow,Edwards,willow.edwards75@examplemail.com,Preston,PR1 1CA,2021-03-16,Gold,Family shopper,True
+CUST00076,Olivia,Wood,olivia.wood76@examplemail.com,Salford,M5 1HF,2023-09-30,Bronze,Student,True
+CUST00077,Maya,Khan,maya.khan77@examplemail.com,Preston,PR1 6AE,2024-03-19,Gold,Family shopper,False
+CUST00078,Amelia,Ward,amelia.ward78@examplemail.com,York,YO1 3HB,2023-02-26,Bronze,Health-focused,True
+CUST00079,Kai,Thompson,kai.thompson79@examplemail.com,York,YO1 1HE,2022-08-22,Silver,Budget-conscious,True
+CUST00080,Emma,Roberts,emma.roberts80@examplemail.com,Newcastle,NE1 9LC,2023-05-26,Bronze,Family shopper,True
+CUST00081,Noah,Clarke,noah.clarke81@examplemail.com,Nottingham,NG1 5AG,2025-12-21,Bronze,Health-focused,True
+CUST00082,Mia,Green,mia.green82@examplemail.com,Preston,PR1 5GE,2026-01-10,Silver,Premium buyer,True
+CUST00083,Nina,Arief,nina.arief83@examplemail.com,York,YO1 7JF,2022-04-11,Silver,Health-focused,True
+CUST00084,Ben,Smith,ben.smith84@examplemail.com,Birmingham,B1 8EF,2024-04-09,Gold,Family shopper,True
+CUST00085,Leo,Patel,leo.patel85@examplemail.com,Birmingham,B1 5AJ,2022-03-30,Bronze,Health-focused,True
+CUST00086,Willow,Smith,willow.smith86@examplemail.com,Leeds,LS1 1ED,2024-03-21,Platinum,Health-focused,True
+CUST00087,Amelia,Evans,amelia.evans87@examplemail.com,Newcastle,NE1 9LG,2025-12-14,Silver,Convenience shopper,False
+CUST00088,Tara,Wood,tara.wood88@examplemail.com,Manchester,M1 5DF,2025-10-23,Silver,Health-focused,False
+CUST00089,Mia,Hill,mia.hill89@examplemail.com,Sheffield,S1 2HC,2023-04-29,Silver,Family shopper,True
+CUST00090,Uma,Clarke,uma.clarke90@examplemail.com,Sheffield,S1 7AB,2022-05-23,Silver,Family shopper,True
+CUST00091,Maya,Khan,maya.khan91@examplemail.com,Manchester,M1 2LC,2021-06-22,Bronze,Student,False
+CUST00092,Amelia,Clarke,amelia.clarke92@examplemail.com,Manchester,M1 7DB,2024-08-08,Bronze,Convenience shopper,True
+CUST00093,Leo,Davies,leo.davies93@examplemail.com,Salford,M5 4KK,2021-02-04,Silver,Student,False
+CUST00094,Xavier,Lewis,xavier.lewis94@examplemail.com,Sheffield,S1 2ED,2021-06-03,Bronze,Family shopper,True
+CUST00095,Hannah,Thompson,hannah.thompson95@examplemail.com,Birmingham,B1 7AG,2025-03-29,Bronze,Family shopper,True
+CUST00096,Priya,Brown,priya.brown96@examplemail.com,Birmingham,B1 5LK,2026-01-09,Bronze,Student,True
+CUST00097,Owen,Johnson,owen.johnson97@examplemail.com,Liverpool,L1 2EA,2023-10-05,Bronze,Family shopper,True
+CUST00098,Farah,Brown,farah.brown98@examplemail.com,Newcastle,NE1 4BA,2025-01-25,Bronze,Budget-conscious,True
+CUST00099,Yasmin,Lewis,yasmin.lewis99@examplemail.com,Newcastle,NE1 2CG,2024-12-09,Bronze,Health-focused,True
+CUST00100,Noah,Hill,noah.hill100@examplemail.com,Nottingham,NG1 9GA,2022-10-05,Bronze,Convenience shopper,True
+CUST00101,Jade,Clarke,jade.clarke101@examplemail.com,Liverpool,L1 3KE,2021-05-26,Bronze,Health-focused,False
+CUST00102,Ethan,Green,ethan.green102@examplemail.com,Birmingham,B1 9CK,2024-09-05,Gold,Family shopper,True
+CUST00103,Leo,Walker,leo.walker103@examplemail.com,Preston,PR1 6GF,2023-03-18,Silver,Convenience shopper,False
+CUST00104,Tara,Hughes,tara.hughes104@examplemail.com,Nottingham,NG1 8HC,2021-03-26,Bronze,Budget-conscious,True
+CUST00105,Olivia,Smith,olivia.smith105@examplemail.com,York,YO1 4LL,2024-04-28,Bronze,Budget-conscious,True
+CUST00106,Jade,Hughes,jade.hughes106@examplemail.com,Liverpool,L1 3AJ,2024-05-31,Bronze,Premium buyer,True
+CUST00107,Lucas,Lewis,lucas.lewis107@examplemail.com,Salford,M5 4HB,2025-04-28,Gold,Budget-conscious,True
+CUST00108,Jade,Brown,jade.brown108@examplemail.com,Preston,PR1 1BB,2022-04-28,Bronze,Budget-conscious,False
+CUST00109,Chloe,Patel,chloe.patel109@examplemail.com,York,YO1 4BD,2025-09-06,Bronze,Budget-conscious,False
+CUST00110,Ella,Ward,ella.ward110@examplemail.com,Birmingham,B1 6DJ,2021-12-04,Silver,Convenience shopper,True
+CUST00111,Adam,Wilson,adam.wilson111@examplemail.com,Newcastle,NE1 9EL,2023-07-03,Gold,Premium buyer,True
+CUST00112,Victor,Arief,victor.arief112@examplemail.com,Sheffield,S1 7GE,2023-12-14,Bronze,Premium buyer,True
+CUST00113,Jade,Cooper,jade.cooper113@examplemail.com,Birmingham,B1 2GL,2021-10-16,Gold,Health-focused,True
+CUST00114,Ben,Thomas,ben.thomas114@examplemail.com,Sheffield,S1 9BE,2025-04-20,Bronze,Student,False
+CUST00115,Uma,Martin,uma.martin115@examplemail.com,Nottingham,NG1 5DE,2022-05-25,Silver,Family shopper,True
+CUST00116,Kai,Wilson,kai.wilson116@examplemail.com,Manchester,M1 8BF,2021-09-05,Bronze,Budget-conscious,True
+CUST00117,Owen,Jackson,owen.jackson117@examplemail.com,Nottingham,NG1 7GG,2024-11-08,Bronze,Premium buyer,True
+CUST00118,Chloe,Wood,chloe.wood118@examplemail.com,Birmingham,B1 2GJ,2022-11-14,Bronze,Convenience shopper,True
+CUST00119,Amelia,Walker,amelia.walker119@examplemail.com,Salford,M5 7BE,2023-10-21,Silver,Budget-conscious,True
+CUST00120,Qasim,Roberts,qasim.roberts120@examplemail.com,Sheffield,S1 4LB,2025-10-30,Silver,Premium buyer,True
+CUST00121,Uma,Harris,uma.harris121@examplemail.com,Liverpool,L1 7BB,2023-02-19,Gold,Premium buyer,True
+CUST00122,Uma,Morris,uma.morris122@examplemail.com,Leeds,LS1 9HL,2024-03-21,Bronze,Health-focused,False
+CUST00123,Priya,Brown,priya.brown123@examplemail.com,Leeds,LS1 1KF,2023-03-14,Bronze,Convenience shopper,True
+CUST00124,Willow,Thompson,willow.thompson124@examplemail.com,Manchester,M1 9LE,2024-03-08,Bronze,Family shopper,True
+CUST00125,Maya,White,maya.white125@examplemail.com,Preston,PR1 2HF,2021-09-28,Bronze,Health-focused,True
+CUST00126,Uma,Patel,uma.patel126@examplemail.com,Birmingham,B1 2LJ,2024-12-14,Gold,Budget-conscious,False
+CUST00127,Ella,Davies,ella.davies127@examplemail.com,Salford,M5 5KF,2023-01-15,Silver,Family shopper,True
+CUST00128,Emma,Hill,emma.hill128@examplemail.com,Sheffield,S1 7BB,2025-01-25,Bronze,Convenience shopper,True
+CUST00129,Sophie,Roberts,sophie.roberts129@examplemail.com,Nottingham,NG1 6KD,2025-10-29,Silver,Student,False
+CUST00130,Maya,Johnson,maya.johnson130@examplemail.com,Manchester,M1 4KF,2024-03-01,Bronze,Premium buyer,True
+CUST00131,Ryan,Wright,ryan.wright131@examplemail.com,Nottingham,NG1 5GA,2021-01-21,Bronze,Student,False
+CUST00132,Noah,Jackson,noah.jackson132@examplemail.com,Nottingham,NG1 1JD,2023-06-12,Bronze,Health-focused,False
+CUST00133,Yasmin,Lewis,yasmin.lewis133@examplemail.com,Newcastle,NE1 2BB,2023-08-26,Bronze,Budget-conscious,False
+CUST00134,Jay,Martin,jay.martin134@examplemail.com,Manchester,M1 1GF,2025-10-07,Gold,Convenience shopper,True
+CUST00135,Lucas,Ward,lucas.ward135@examplemail.com,Preston,PR1 6KB,2024-09-27,Gold,Convenience shopper,True
+CUST00136,Grace,Lewis,grace.lewis136@examplemail.com,York,YO1 8DH,2023-07-15,Bronze,Student,True
+CUST00137,Owen,Brown,owen.brown137@examplemail.com,Leeds,LS1 6DA,2021-09-30,Bronze,Budget-conscious,False
+CUST00138,Theo,Ward,theo.ward138@examplemail.com,Salford,M5 8CK,2024-07-31,Bronze,Budget-conscious,False
+CUST00139,Leo,Martin,leo.martin139@examplemail.com,Manchester,M1 3DL,2021-07-13,Bronze,Premium buyer,True
+CUST00140,Nina,Walker,nina.walker140@examplemail.com,Salford,M5 8GK,2022-02-23,Silver,Convenience shopper,True
+CUST00141,Lucas,Cooper,lucas.cooper141@examplemail.com,Newcastle,NE1 6HK,2025-11-20,Gold,Health-focused,True
+CUST00142,Victor,Ward,victor.ward142@examplemail.com,Newcastle,NE1 3EC,2024-07-19,Bronze,Budget-conscious,True
+CUST00143,Daniel,Walker,daniel.walker143@examplemail.com,Leeds,LS1 7JJ,2025-12-29,Gold,Convenience shopper,True
+CUST00144,Leo,Ward,leo.ward144@examplemail.com,Liverpool,L1 1LC,2025-03-23,Bronze,Family shopper,True
+CUST00145,Yasmin,Wood,yasmin.wood145@examplemail.com,Nottingham,NG1 5CH,2025-11-18,Gold,Health-focused,True
+CUST00146,Jay,Ward,jay.ward146@examplemail.com,Manchester,M1 7BL,2023-03-12,Silver,Student,True
+CUST00147,Yasmin,Walker,yasmin.walker147@examplemail.com,Newcastle,NE1 1LG,2021-06-19,Bronze,Convenience shopper,True
+CUST00148,Sophie,Brown,sophie.brown148@examplemail.com,Birmingham,B1 2HA,2023-06-22,Silver,Student,True
+CUST00149,Yasmin,Roberts,yasmin.roberts149@examplemail.com,York,YO1 8AD,2023-12-16,Gold,Convenience shopper,True
+CUST00150,Hannah,Green,hannah.green150@examplemail.com,Liverpool,L1 3EE,2023-08-20,Gold,Premium buyer,True
+CUST00151,Leo,Evans,leo.evans151@examplemail.com,Leeds,LS1 7FB,2025-08-22,Bronze,Health-focused,True
+CUST00152,George,Wright,george.wright152@examplemail.com,Salford,M5 4FD,2025-07-05,Silver,Convenience shopper,True
+CUST00153,Owen,Wright,owen.wright153@examplemail.com,Salford,M5 9LE,2024-10-24,Bronze,Family shopper,True
+CUST00154,Qasim,Harris,qasim.harris154@examplemail.com,Salford,M5 6EJ,2022-01-30,Gold,Premium buyer,True
+CUST00155,Ben,Walker,ben.walker155@examplemail.com,Preston,PR1 4GL,2025-06-01,Gold,Budget-conscious,True
+CUST00156,Ryan,Khan,ryan.khan156@examplemail.com,Birmingham,B1 9LA,2022-07-06,Gold,Budget-conscious,True
+CUST00157,Zara,Johnson,zara.johnson157@examplemail.com,Manchester,M1 2BF,2021-03-19,Platinum,Convenience shopper,True
+CUST00158,Nina,Edwards,nina.edwards158@examplemail.com,Newcastle,NE1 7BK,2021-05-19,Bronze,Convenience shopper,True
+CUST00159,Hannah,Morris,hannah.morris159@examplemail.com,Preston,PR1 3KG,2021-12-16,Silver,Student,False
+CUST00160,Leo,Cooper,leo.cooper160@examplemail.com,Birmingham,B1 7LD,2022-09-24,Bronze,Health-focused,False
+CUST00161,Ella,Martin,ella.martin161@examplemail.com,Preston,PR1 9JF,2021-05-10,Bronze,Convenience shopper,True
+CUST00162,Ryan,Lewis,ryan.lewis162@examplemail.com,York,YO1 4GK,2024-12-05,Bronze,Health-focused,True
+CUST00163,Amelia,White,amelia.white163@examplemail.com,Liverpool,L1 8AL,2024-12-16,Silver,Convenience shopper,True
+CUST00164,Theo,Jackson,theo.jackson164@examplemail.com,York,YO1 5BJ,2024-04-10,Silver,Health-focused,True
+CUST00165,Adam,Harris,adam.harris165@examplemail.com,York,YO1 7AD,2023-09-13,Silver,Health-focused,True
+CUST00166,Olivia,Walker,olivia.walker166@examplemail.com,Salford,M5 8FL,2023-04-13,Silver,Health-focused,True
+CUST00167,Sam,Patel,sam.patel167@examplemail.com,Nottingham,NG1 5KD,2025-12-10,Gold,Premium buyer,True
+CUST00168,Victor,Khan,victor.khan168@examplemail.com,Leeds,LS1 1DH,2021-01-29,Bronze,Health-focused,False
+CUST00169,Qasim,Johnson,qasim.johnson169@examplemail.com,Salford,M5 8EF,2021-01-21,Bronze,Health-focused,True
+CUST00170,Yasmin,Roberts,yasmin.roberts170@examplemail.com,York,YO1 3EE,2021-05-02,Silver,Premium buyer,False
+CUST00171,Ryan,Harris,ryan.harris171@examplemail.com,Sheffield,S1 9KH,2022-09-18,Bronze,Convenience shopper,True
+CUST00172,Uma,Harris,uma.harris172@examplemail.com,Preston,PR1 5FB,2023-02-25,Gold,Budget-conscious,False
+CUST00173,Sophie,Hughes,sophie.hughes173@examplemail.com,York,YO1 3HC,2022-01-25,Bronze,Convenience shopper,False
+CUST00174,Sophie,Taylor,sophie.taylor174@examplemail.com,Birmingham,B1 9AL,2026-01-04,Bronze,Premium buyer,True
+CUST00175,Qasim,Lewis,qasim.lewis175@examplemail.com,Preston,PR1 3LC,2023-04-08,Silver,Premium buyer,True
+CUST00176,Uma,Khan,uma.khan176@examplemail.com,Preston,PR1 5BK,2023-01-22,Silver,Family shopper,True
+CUST00177,Adam,Hill,adam.hill177@examplemail.com,Sheffield,S1 2FL,2022-09-24,Silver,Family shopper,True
+CUST00178,Chloe,Wright,chloe.wright178@examplemail.com,Newcastle,NE1 9JC,2024-04-05,Silver,Student,True
+CUST00179,Victor,Evans,victor.evans179@examplemail.com,Manchester,M1 3LG,2023-03-16,Platinum,Health-focused,True
+CUST00180,Ruby,Smith,ruby.smith180@examplemail.com,Salford,M5 1LK,2025-04-01,Gold,Health-focused,True
+CUST00181,Qasim,Hill,qasim.hill181@examplemail.com,Birmingham,B1 6KG,2021-04-02,Bronze,Convenience shopper,True
+CUST00182,Ethan,Hill,ethan.hill182@examplemail.com,Sheffield,S1 9CF,2022-01-16,Gold,Health-focused,True
+CUST00183,Owen,Cooper,owen.cooper183@examplemail.com,Sheffield,S1 8BL,2025-03-13,Silver,Convenience shopper,False
+CUST00184,Victor,Green,victor.green184@examplemail.com,Preston,PR1 5AG,2022-08-05,Silver,Health-focused,False
+CUST00185,Yasmin,Morris,yasmin.morris185@examplemail.com,Preston,PR1 6KL,2025-02-17,Gold,Student,False
+CUST00186,Jay,Johnson,jay.johnson186@examplemail.com,Birmingham,B1 4LK,2021-12-12,Silver,Family shopper,True
+CUST00187,Ella,Thomas,ella.thomas187@examplemail.com,Nottingham,NG1 2BB,2025-12-14,Bronze,Convenience shopper,True
+CUST00188,Liam,Lewis,liam.lewis188@examplemail.com,Newcastle,NE1 9JJ,2025-10-12,Gold,Budget-conscious,True
+CUST00189,Kai,White,kai.white189@examplemail.com,Birmingham,B1 5GE,2023-05-19,Silver,Budget-conscious,True
+CUST00190,Jade,Roberts,jade.roberts190@examplemail.com,Salford,M5 7EF,2023-01-03,Silver,Student,True
+CUST00191,Ryan,Walker,ryan.walker191@examplemail.com,Preston,PR1 2FK,2024-12-05,Bronze,Premium buyer,False
+CUST00192,Adam,Arief,adam.arief192@examplemail.com,York,YO1 9FJ,2022-07-06,Silver,Convenience shopper,True
+CUST00193,Owen,White,owen.white193@examplemail.com,Birmingham,B1 5DG,2025-11-08,Silver,Convenience shopper,True
+CUST00194,Maya,Smith,maya.smith194@examplemail.com,Leeds,LS1 2BK,2021-11-08,Silver,Health-focused,True
+CUST00195,Lucas,Khan,lucas.khan195@examplemail.com,Newcastle,NE1 3AD,2021-03-11,Gold,Family shopper,True
+CUST00196,Theo,Johnson,theo.johnson196@examplemail.com,Newcastle,NE1 1BE,2023-01-10,Silver,Convenience shopper,True
+CUST00197,George,Roberts,george.roberts197@examplemail.com,Leeds,LS1 8GA,2024-09-21,Bronze,Student,True
+CUST00198,Chloe,Cooper,chloe.cooper198@examplemail.com,Sheffield,S1 9AB,2025-04-10,Bronze,Convenience shopper,True
+CUST00199,Lucas,Taylor,lucas.taylor199@examplemail.com,Sheffield,S1 8BC,2026-01-04,Silver,Health-focused,True
+CUST00200,Aisha,Jackson,aisha.jackson200@examplemail.com,Manchester,M1 8JH,2025-05-23,Silver,Convenience shopper,False
+CUST00201,Ella,Jones,ella.jones201@examplemail.com,Nottingham,NG1 3EG,2025-11-08,Bronze,Convenience shopper,True
+CUST00202,Leo,Patel,leo.patel202@examplemail.com,York,YO1 9JG,2023-03-26,Bronze,Student,True
+CUST00203,Noah,Clarke,noah.clarke203@examplemail.com,Preston,PR1 5DE,2022-06-02,Silver,Health-focused,True
+CUST00204,Noah,Cooper,noah.cooper204@examplemail.com,Birmingham,B1 3DH,2023-12-31,Bronze,Convenience shopper,True
+CUST00205,Maya,Cooper,maya.cooper205@examplemail.com,Preston,PR1 2GD,2023-05-06,Silver,Premium buyer,True
+CUST00206,Olivia,Wilson,olivia.wilson206@examplemail.com,Nottingham,NG1 1JJ,2023-08-16,Bronze,Premium buyer,False
+CUST00207,Kai,Patel,kai.patel207@examplemail.com,York,YO1 3JE,2022-02-18,Gold,Student,False
+CUST00208,Kai,White,kai.white208@examplemail.com,Sheffield,S1 9BC,2024-06-16,Silver,Student,True
+CUST00209,Amelia,Wilson,amelia.wilson209@examplemail.com,Leeds,LS1 9ED,2025-02-10,Gold,Premium buyer,False
+CUST00210,Grace,Green,grace.green210@examplemail.com,Birmingham,B1 6LF,2021-10-12,Gold,Budget-conscious,True
+CUST00211,Amelia,Taylor,amelia.taylor211@examplemail.com,Salford,M5 4GH,2021-03-24,Silver,Health-focused,True
+CUST00212,Aisha,Patel,aisha.patel212@examplemail.com,Birmingham,B1 4AE,2022-04-25,Bronze,Student,False
+CUST00213,Chloe,Martin,chloe.martin213@examplemail.com,York,YO1 4DA,2023-07-22,Gold,Budget-conscious,True
+CUST00214,Mia,Wood,mia.wood214@examplemail.com,Newcastle,NE1 2DA,2022-09-14,Bronze,Family shopper,True
+CUST00215,Xavier,Thompson,xavier.thompson215@examplemail.com,Nottingham,NG1 9BB,2022-10-27,Bronze,Family shopper,True
+CUST00216,Ethan,Jackson,ethan.jackson216@examplemail.com,Birmingham,B1 9GG,2024-03-16,Bronze,Premium buyer,True
+CUST00217,Hannah,Cooper,hannah.cooper217@examplemail.com,Liverpool,L1 2HF,2024-05-26,Silver,Convenience shopper,True
+CUST00218,Daniel,Arief,daniel.arief218@examplemail.com,Nottingham,NG1 5JD,2023-09-09,Silver,Convenience shopper,True
+CUST00219,Chloe,Cooper,chloe.cooper219@examplemail.com,Newcastle,NE1 6KH,2021-01-03,Bronze,Budget-conscious,True
+CUST00220,Xavier,Smith,xavier.smith220@examplemail.com,Preston,PR1 7CA,2021-01-26,Gold,Family shopper,False
+CUST00221,Maya,Evans,maya.evans221@examplemail.com,Leeds,LS1 6BJ,2023-06-07,Bronze,Premium buyer,True
+CUST00222,Willow,Green,willow.green222@examplemail.com,Liverpool,L1 8HH,2025-12-04,Bronze,Convenience shopper,True
+CUST00223,Qasim,Cooper,qasim.cooper223@examplemail.com,Preston,PR1 5GC,2024-01-17,Bronze,Student,True
+CUST00224,Farah,Patel,farah.patel224@examplemail.com,Liverpool,L1 3DC,2023-10-22,Silver,Family shopper,True
+CUST00225,Tara,Walker,tara.walker225@examplemail.com,Sheffield,S1 8KC,2023-10-17,Silver,Student,True
+CUST00226,Ella,Arief,ella.arief226@examplemail.com,York,YO1 5GE,2023-11-19,Silver,Convenience shopper,True
+CUST00227,Ismail,Davies,ismail.davies227@examplemail.com,Newcastle,NE1 1KA,2025-12-05,Silver,Family shopper,True
+CUST00228,Ben,Johnson,ben.johnson228@examplemail.com,Leeds,LS1 5DD,2025-09-16,Bronze,Convenience shopper,True
+CUST00229,Nina,Johnson,nina.johnson229@examplemail.com,Preston,PR1 4HL,2025-09-10,Silver,Health-focused,False
+CUST00230,Olivia,Smith,olivia.smith230@examplemail.com,Nottingham,NG1 6FE,2023-07-27,Bronze,Family shopper,True
+CUST00231,Theo,Wright,theo.wright231@examplemail.com,Birmingham,B1 2FC,2024-03-07,Silver,Health-focused,True
+CUST00232,Hannah,Patel,hannah.patel232@examplemail.com,Preston,PR1 8EH,2023-11-01,Bronze,Student,False
+CUST00233,Willow,White,willow.white233@examplemail.com,Liverpool,L1 1DE,2025-04-13,Bronze,Student,True
+CUST00234,Qasim,Green,qasim.green234@examplemail.com,Sheffield,S1 4BD,2025-10-27,Silver,Family shopper,True
+CUST00235,Zara,Jones,zara.jones235@examplemail.com,Birmingham,B1 6KJ,2021-12-25,Silver,Family shopper,True
+CUST00236,Yasmin,White,yasmin.white236@examplemail.com,Birmingham,B1 3EJ,2022-05-04,Gold,Budget-conscious,True
+CUST00237,Willow,Arief,willow.arief237@examplemail.com,Newcastle,NE1 2BJ,2025-06-17,Gold,Health-focused,True
+CUST00238,Sam,Davies,sam.davies238@examplemail.com,Newcastle,NE1 7EH,2021-11-29,Bronze,Budget-conscious,False
+CUST00239,Kai,Thompson,kai.thompson239@examplemail.com,Nottingham,NG1 4HJ,2023-09-06,Bronze,Family shopper,False
+CUST00240,Theo,Ward,theo.ward240@examplemail.com,Nottingham,NG1 4EL,2021-01-14,Bronze,Student,True
+CUST00241,Ella,Martin,ella.martin241@examplemail.com,Sheffield,S1 9KF,2021-02-17,Silver,Premium buyer,True
+CUST00242,Daniel,Taylor,daniel.taylor242@examplemail.com,Birmingham,B1 4AA,2023-05-15,Bronze,Family shopper,True
+CUST00243,Zara,Roberts,zara.roberts243@examplemail.com,Manchester,M1 6FB,2022-10-29,Silver,Family shopper,True
+CUST00244,Yasmin,Johnson,yasmin.johnson244@examplemail.com,Preston,PR1 3BE,2023-10-06,Silver,Convenience shopper,False
+CUST00245,Noah,Brown,noah.brown245@examplemail.com,Nottingham,NG1 2JC,2023-04-03,Bronze,Health-focused,False
+CUST00246,Olivia,Jackson,olivia.jackson246@examplemail.com,Newcastle,NE1 8JA,2024-08-27,Bronze,Health-focused,True
+CUST00247,Ben,Thompson,ben.thompson247@examplemail.com,Nottingham,NG1 4EL,2022-02-03,Bronze,Convenience shopper,False
+CUST00248,Victor,Thompson,victor.thompson248@examplemail.com,Liverpool,L1 2DK,2026-01-12,Bronze,Family shopper,True
+CUST00249,Jay,Edwards,jay.edwards249@examplemail.com,York,YO1 1BL,2021-12-06,Bronze,Premium buyer,False
+CUST00250,Qasim,Jones,qasim.jones250@examplemail.com,Sheffield,S1 9FD,2021-10-23,Silver,Family shopper,True
+CUST00251,Nina,Edwards,nina.edwards251@examplemail.com,Newcastle,NE1 8LD,2023-03-21,Silver,Premium buyer,False
+CUST00252,Ryan,Brown,ryan.brown252@examplemail.com,Sheffield,S1 3CB,2022-05-13,Bronze,Convenience shopper,True
+CUST00253,Yasmin,Edwards,yasmin.edwards253@examplemail.com,Birmingham,B1 2KH,2021-02-19,Bronze,Budget-conscious,True
+CUST00254,Yasmin,Edwards,yasmin.edwards254@examplemail.com,Leeds,LS1 1ED,2023-03-26,Gold,Budget-conscious,True
+CUST00255,Mia,Green,mia.green255@examplemail.com,Manchester,M1 4JD,2024-02-15,Bronze,Health-focused,True
+CUST00256,Tara,Taylor,tara.taylor256@examplemail.com,Birmingham,B1 2HA,2023-11-15,Bronze,Health-focused,False
+CUST00257,Willow,Hughes,willow.hughes257@examplemail.com,Preston,PR1 6AB,2022-03-14,Bronze,Family shopper,True
+CUST00258,Nina,Khan,nina.khan258@examplemail.com,Newcastle,NE1 3GD,2025-08-21,Silver,Budget-conscious,False
+CUST00259,Sam,Clarke,sam.clarke259@examplemail.com,Manchester,M1 2HA,2025-11-05,Bronze,Budget-conscious,True
+CUST00260,Zara,Harris,zara.harris260@examplemail.com,Leeds,LS1 3CD,2021-10-15,Bronze,Student,True
+CUST00261,Nina,Wood,nina.wood261@examplemail.com,Preston,PR1 7LE,2022-12-12,Gold,Health-focused,True
+CUST00262,Hannah,Jackson,hannah.jackson262@examplemail.com,York,YO1 2GL,2025-12-19,Bronze,Convenience shopper,True
+CUST00263,Adam,Green,adam.green263@examplemail.com,Preston,PR1 3FE,2023-12-27,Silver,Family shopper,True
+CUST00264,Hannah,Brown,hannah.brown264@examplemail.com,Nottingham,NG1 1AL,2025-11-12,Bronze,Premium buyer,True
+CUST00265,Leo,Ward,leo.ward265@examplemail.com,Birmingham,B1 6FA,2023-01-15,Gold,Health-focused,True
+CUST00266,Zara,Martin,zara.martin266@examplemail.com,Liverpool,L1 1DE,2023-09-26,Gold,Family shopper,False
+CUST00267,Farah,Jones,farah.jones267@examplemail.com,Newcastle,NE1 6LL,2024-08-05,Bronze,Premium buyer,True
+CUST00268,Ben,Clarke,ben.clarke268@examplemail.com,Nottingham,NG1 6BL,2021-10-16,Gold,Family shopper,True
+CUST00269,Liam,Hill,liam.hill269@examplemail.com,Salford,M5 1HK,2022-04-01,Gold,Budget-conscious,True
+CUST00270,Nina,Thompson,nina.thompson270@examplemail.com,York,YO1 5HA,2023-07-30,Silver,Family shopper,True
+CUST00271,Nina,Jones,nina.jones271@examplemail.com,Preston,PR1 1AL,2024-10-18,Bronze,Premium buyer,True
+CUST00272,Noah,Clarke,noah.clarke272@examplemail.com,Newcastle,NE1 1DB,2024-11-26,Gold,Premium buyer,True
+CUST00273,Ben,Wright,ben.wright273@examplemail.com,Sheffield,S1 8EE,2022-09-05,Gold,Premium buyer,False
+CUST00274,Noah,Khan,noah.khan274@examplemail.com,Salford,M5 7EK,2025-04-20,Silver,Health-focused,True
+CUST00275,Sophie,Hughes,sophie.hughes275@examplemail.com,Manchester,M1 9GA,2025-01-18,Bronze,Family shopper,True
+CUST00276,Ben,Harris,ben.harris276@examplemail.com,Newcastle,NE1 2LA,2025-10-08,Silver,Health-focused,True
+CUST00277,Nina,Lewis,nina.lewis277@examplemail.com,Birmingham,B1 5EC,2022-03-13,Silver,Convenience shopper,False
+CUST00278,Jade,Brown,jade.brown278@examplemail.com,Birmingham,B1 1EH,2023-01-14,Bronze,Premium buyer,False
+CUST00279,Xavier,Hughes,xavier.hughes279@examplemail.com,Salford,M5 2KE,2021-09-30,Silver,Premium buyer,True
+CUST00280,Maya,Davies,maya.davies280@examplemail.com,Nottingham,NG1 2LE,2021-07-28,Bronze,Health-focused,True
+CUST00281,Theo,Harris,theo.harris281@examplemail.com,Newcastle,NE1 7HE,2023-09-07,Platinum,Premium buyer,True
+CUST00282,Hannah,Clarke,hannah.clarke282@examplemail.com,Nottingham,NG1 7HL,2024-12-29,Bronze,Health-focused,True
+CUST00283,Maya,Walker,maya.walker283@examplemail.com,Birmingham,B1 8AH,2023-11-20,Silver,Premium buyer,True
+CUST00284,Uma,Taylor,uma.taylor284@examplemail.com,Liverpool,L1 5EK,2023-06-01,Silver,Health-focused,True
+CUST00285,Leo,Wilson,leo.wilson285@examplemail.com,Nottingham,NG1 2BD,2022-12-12,Bronze,Premium buyer,True
+CUST00286,Adam,Arief,adam.arief286@examplemail.com,York,YO1 4JF,2024-10-04,Bronze,Family shopper,True
+CUST00287,Hannah,Arief,hannah.arief287@examplemail.com,Leeds,LS1 9BF,2024-03-20,Silver,Student,False
+CUST00288,Maya,Evans,maya.evans288@examplemail.com,York,YO1 9JE,2023-08-17,Silver,Health-focused,True
+CUST00289,Sam,Clarke,sam.clarke289@examplemail.com,Salford,M5 7AK,2022-05-13,Bronze,Student,True
+CUST00290,Daniel,Walker,daniel.walker290@examplemail.com,Leeds,LS1 6AL,2025-12-29,Silver,Health-focused,False
+CUST00291,Farah,Thomas,farah.thomas291@examplemail.com,Birmingham,B1 9GE,2021-04-14,Gold,Family shopper,True
+CUST00292,Amelia,Taylor,amelia.taylor292@examplemail.com,Preston,PR1 2BD,2022-10-21,Gold,Convenience shopper,True
+CUST00293,Yasmin,Thomas,yasmin.thomas293@examplemail.com,Sheffield,S1 7HG,2023-09-02,Bronze,Convenience shopper,True
+CUST00294,Ella,Jackson,ella.jackson294@examplemail.com,Nottingham,NG1 4DC,2022-01-22,Silver,Family shopper,True
+CUST00295,Yasmin,Walker,yasmin.walker295@examplemail.com,Preston,PR1 3FL,2024-11-12,Bronze,Student,True
+CUST00296,Willow,Thomas,willow.thomas296@examplemail.com,Salford,M5 3LK,2021-01-14,Platinum,Premium buyer,True
+CUST00297,Ben,Harris,ben.harris297@examplemail.com,Salford,M5 9CB,2024-07-01,Silver,Premium buyer,True
+CUST00298,Willow,Johnson,willow.johnson298@examplemail.com,Nottingham,NG1 4AD,2021-04-14,Silver,Budget-conscious,True
+CUST00299,Ethan,Morris,ethan.morris299@examplemail.com,Preston,PR1 7CH,2022-03-02,Bronze,Premium buyer,True
+CUST00300,George,Evans,george.evans300@examplemail.com,Birmingham,B1 3GJ,2021-10-19,Platinum,Student,True
+CUST00301,Mia,Taylor,mia.taylor301@examplemail.com,York,YO1 1GE,2022-09-09,Gold,Health-focused,True
+CUST00302,Uma,Jones,uma.jones302@examplemail.com,Leeds,LS1 7LE,2023-08-13,Gold,Premium buyer,True
+CUST00303,Ruby,Wood,ruby.wood303@examplemail.com,Newcastle,NE1 7GL,2023-01-22,Gold,Budget-conscious,True
+CUST00304,Lucas,Johnson,lucas.johnson304@examplemail.com,Liverpool,L1 2LL,2021-08-20,Silver,Student,True
+CUST00305,Emma,Hill,emma.hill305@examplemail.com,Preston,PR1 8BA,2024-05-23,Silver,Family shopper,False
+CUST00306,Grace,Davies,grace.davies306@examplemail.com,Sheffield,S1 3FK,2021-12-26,Silver,Budget-conscious,True
+CUST00307,Ismail,Wood,ismail.wood307@examplemail.com,Preston,PR1 2GJ,2021-05-11,Bronze,Budget-conscious,True
+CUST00308,Zara,Arief,zara.arief308@examplemail.com,Salford,M5 3LJ,2024-03-12,Bronze,Family shopper,False
+CUST00309,Qasim,Khan,qasim.khan309@examplemail.com,Leeds,LS1 7AJ,2021-03-10,Bronze,Budget-conscious,True
+CUST00310,Kai,White,kai.white310@examplemail.com,Birmingham,B1 9LJ,2022-03-03,Bronze,Family shopper,True
+CUST00311,Chloe,Hughes,chloe.hughes311@examplemail.com,Preston,PR1 3DK,2022-09-05,Bronze,Premium buyer,True
+CUST00312,Mia,Wilson,mia.wilson312@examplemail.com,Preston,PR1 1HC,2022-10-26,Silver,Premium buyer,True
+CUST00313,Jade,Harris,jade.harris313@examplemail.com,Leeds,LS1 4AL,2024-02-23,Bronze,Health-focused,False
+CUST00314,Maya,Evans,maya.evans314@examplemail.com,Nottingham,NG1 5DL,2025-10-16,Bronze,Health-focused,True
+CUST00315,George,Brown,george.brown315@examplemail.com,Liverpool,L1 6CE,2025-05-17,Silver,Student,True
+CUST00316,Liam,Walker,liam.walker316@examplemail.com,Leeds,LS1 6EB,2024-03-12,Gold,Student,True
+CUST00317,Ethan,Wright,ethan.wright317@examplemail.com,Leeds,LS1 5DF,2023-12-16,Bronze,Convenience shopper,True
+CUST00318,George,Hughes,george.hughes318@examplemail.com,Newcastle,NE1 5AE,2025-03-13,Bronze,Student,True
+CUST00319,Willow,Patel,willow.patel319@examplemail.com,Manchester,M1 8FC,2023-02-19,Silver,Student,True
+CUST00320,Ismail,Wood,ismail.wood320@examplemail.com,Nottingham,NG1 9HG,2022-04-06,Bronze,Student,True
+CUST00321,Ella,Davies,ella.davies321@examplemail.com,Sheffield,S1 1KH,2024-06-14,Bronze,Convenience shopper,True
+CUST00322,Uma,Davies,uma.davies322@examplemail.com,Birmingham,B1 5BF,2025-02-15,Silver,Family shopper,True
+CUST00323,Emma,Wilson,emma.wilson323@examplemail.com,Newcastle,NE1 5LF,2024-08-24,Bronze,Health-focused,True
+CUST00324,Sam,Patel,sam.patel324@examplemail.com,Sheffield,S1 4ED,2025-01-26,Bronze,Budget-conscious,True
+CUST00325,Noah,White,noah.white325@examplemail.com,Liverpool,L1 7DG,2025-12-31,Silver,Student,False
+CUST00326,Grace,Wilson,grace.wilson326@examplemail.com,Sheffield,S1 4BH,2021-05-13,Bronze,Convenience shopper,True
+CUST00327,Priya,Davies,priya.davies327@examplemail.com,Liverpool,L1 2HJ,2022-12-31,Silver,Family shopper,False
+CUST00328,Sam,Hughes,sam.hughes328@examplemail.com,Liverpool,L1 1DC,2022-09-15,Bronze,Premium buyer,True
+CUST00329,Willow,Patel,willow.patel329@examplemail.com,Nottingham,NG1 7LL,2022-08-12,Gold,Health-focused,True
+CUST00330,Ruby,Davies,ruby.davies330@examplemail.com,Preston,PR1 5EC,2024-08-10,Silver,Family shopper,True
+CUST00331,Leo,Clarke,leo.clarke331@examplemail.com,York,YO1 5GC,2025-12-22,Bronze,Premium buyer,True
+CUST00332,Ryan,Thomas,ryan.thomas332@examplemail.com,Birmingham,B1 5EL,2022-06-12,Gold,Budget-conscious,True
+CUST00333,Grace,Smith,grace.smith333@examplemail.com,Leeds,LS1 9BF,2022-08-26,Bronze,Convenience shopper,True
+CUST00334,Ismail,Hughes,ismail.hughes334@examplemail.com,Birmingham,B1 4KF,2023-05-11,Gold,Student,True
+CUST00335,Tara,Patel,tara.patel335@examplemail.com,Birmingham,B1 8JJ,2023-11-05,Silver,Premium buyer,True
+CUST00336,Ethan,Thompson,ethan.thompson336@examplemail.com,Sheffield,S1 4EB,2021-06-25,Bronze,Budget-conscious,True
+CUST00337,Ruby,Thompson,ruby.thompson337@examplemail.com,York,YO1 4FE,2023-12-22,Bronze,Health-focused,False
+CUST00338,Emma,Lewis,emma.lewis338@examplemail.com,Leeds,LS1 2EB,2025-01-15,Bronze,Family shopper,True
+CUST00339,Maya,Edwards,maya.edwards339@examplemail.com,Nottingham,NG1 6HA,2023-02-01,Bronze,Convenience shopper,True
+CUST00340,Yasmin,Harris,yasmin.harris340@examplemail.com,Manchester,M1 1FF,2023-05-06,Platinum,Budget-conscious,True
+CUST00341,Noah,Jackson,noah.jackson341@examplemail.com,Nottingham,NG1 5EA,2023-05-09,Bronze,Convenience shopper,True
+CUST00342,Jay,Green,jay.green342@examplemail.com,York,YO1 4AK,2022-04-08,Silver,Family shopper,True
+CUST00343,Amelia,Evans,amelia.evans343@examplemail.com,Preston,PR1 8BH,2025-06-17,Silver,Student,True
+CUST00344,Noah,Thompson,noah.thompson344@examplemail.com,Newcastle,NE1 8GE,2023-04-20,Bronze,Premium buyer,True
+CUST00345,Ruby,Evans,ruby.evans345@examplemail.com,Birmingham,B1 7HK,2024-01-27,Silver,Budget-conscious,False
+CUST00346,Theo,Brown,theo.brown346@examplemail.com,Birmingham,B1 7CB,2023-08-21,Silver,Budget-conscious,True
+CUST00347,Victor,Cooper,victor.cooper347@examplemail.com,Newcastle,NE1 1EK,2022-12-24,Gold,Budget-conscious,True
+CUST00348,Ethan,Lewis,ethan.lewis348@examplemail.com,Sheffield,S1 4JC,2025-12-21,Bronze,Budget-conscious,True
+CUST00349,Lucas,Evans,lucas.evans349@examplemail.com,Preston,PR1 2BH,2022-11-30,Bronze,Convenience shopper,True
+CUST00350,Amelia,Ward,amelia.ward350@examplemail.com,Newcastle,NE1 9JJ,2021-10-09,Gold,Convenience shopper,True
+CUST00351,Jay,Ward,jay.ward351@examplemail.com,Liverpool,L1 1CD,2024-08-16,Bronze,Student,True
+CUST00352,Xavier,Wood,xavier.wood352@examplemail.com,Nottingham,NG1 6HA,2024-06-05,Gold,Health-focused,False
+CUST00353,Mia,Wilson,mia.wilson353@examplemail.com,Leeds,LS1 9DB,2024-01-19,Bronze,Budget-conscious,True
+CUST00354,Farah,Thomas,farah.thomas354@examplemail.com,Newcastle,NE1 6HC,2024-07-25,Silver,Budget-conscious,False
+CUST00355,Owen,Thompson,owen.thompson355@examplemail.com,Leeds,LS1 9FA,2021-10-24,Bronze,Premium buyer,True
+CUST00356,George,Wilson,george.wilson356@examplemail.com,Newcastle,NE1 2HJ,2023-04-17,Platinum,Family shopper,True
+CUST00357,Zara,Hughes,zara.hughes357@examplemail.com,Sheffield,S1 2AA,2022-04-16,Bronze,Convenience shopper,False
+CUST00358,Maya,Hill,maya.hill358@examplemail.com,York,YO1 1GK,2022-09-14,Gold,Health-focused,True
+CUST00359,Ben,Wright,ben.wright359@examplemail.com,Manchester,M1 9HE,2024-05-01,Gold,Convenience shopper,True
+CUST00360,Tara,Roberts,tara.roberts360@examplemail.com,York,YO1 7FF,2023-12-05,Bronze,Premium buyer,False
+CUST00361,Noah,Walker,noah.walker361@examplemail.com,Salford,M5 7DE,2023-12-10,Silver,Budget-conscious,True
+CUST00362,Ella,Arief,ella.arief362@examplemail.com,Manchester,M1 1LD,2026-01-04,Gold,Student,True
+CUST00363,Maya,Arief,maya.arief363@examplemail.com,Salford,M5 8GG,2023-11-16,Silver,Health-focused,True
+CUST00364,Liam,Morris,liam.morris364@examplemail.com,York,YO1 1BL,2022-07-27,Bronze,Premium buyer,True
+CUST00365,Ella,White,ella.white365@examplemail.com,York,YO1 6ED,2025-02-09,Bronze,Convenience shopper,True
+CUST00366,Jay,Thomas,jay.thomas366@examplemail.com,York,YO1 8HG,2024-10-17,Gold,Budget-conscious,True
+CUST00367,Adam,Harris,adam.harris367@examplemail.com,Manchester,M1 7EF,2025-09-08,Silver,Convenience shopper,True
+CUST00368,Nina,Roberts,nina.roberts368@examplemail.com,Nottingham,NG1 7EB,2023-06-09,Bronze,Student,True
+CUST00369,Victor,Wood,victor.wood369@examplemail.com,Newcastle,NE1 8KB,2022-05-16,Bronze,Premium buyer,True
+CUST00370,Ben,Khan,ben.khan370@examplemail.com,Sheffield,S1 1CF,2025-02-11,Bronze,Student,True
+CUST00371,Ben,Patel,ben.patel371@examplemail.com,Preston,PR1 6LB,2023-06-11,Silver,Student,True
+CUST00372,Sam,Green,sam.green372@examplemail.com,Preston,PR1 6EB,2023-09-07,Gold,Student,True
+CUST00373,Qasim,Walker,qasim.walker373@examplemail.com,Liverpool,L1 8BD,2022-01-26,Gold,Convenience shopper,False
+CUST00374,Farah,Morris,farah.morris374@examplemail.com,Preston,PR1 5CE,2025-02-20,Gold,Family shopper,True
+CUST00375,Victor,White,victor.white375@examplemail.com,Newcastle,NE1 6GH,2021-04-06,Bronze,Convenience shopper,False
+CUST00376,Ismail,Wood,ismail.wood376@examplemail.com,York,YO1 9HK,2021-05-04,Silver,Health-focused,True
+CUST00377,Noah,Hill,noah.hill377@examplemail.com,Birmingham,B1 4GG,2024-09-11,Silver,Family shopper,True
+CUST00378,Maya,Lewis,maya.lewis378@examplemail.com,Salford,M5 2KF,2024-12-06,Platinum,Health-focused,False
+CUST00379,Noah,Wilson,noah.wilson379@examplemail.com,Leeds,LS1 2CL,2025-04-16,Gold,Health-focused,True
+CUST00380,Noah,Hill,noah.hill380@examplemail.com,Newcastle,NE1 7HH,2025-10-03,Silver,Convenience shopper,False
+CUST00381,Victor,Evans,victor.evans381@examplemail.com,Nottingham,NG1 9LC,2024-07-29,Bronze,Student,True
+CUST00382,Adam,Davies,adam.davies382@examplemail.com,Manchester,M1 2GL,2024-10-24,Silver,Convenience shopper,True
+CUST00383,Liam,Smith,liam.smith383@examplemail.com,Leeds,LS1 2AB,2026-01-19,Bronze,Health-focused,True
+CUST00384,Olivia,Jackson,olivia.jackson384@examplemail.com,Leeds,LS1 6GF,2024-06-07,Gold,Family shopper,True
+CUST00385,Aisha,Wilson,aisha.wilson385@examplemail.com,Sheffield,S1 5GG,2025-02-14,Gold,Health-focused,False
+CUST00386,Ryan,Roberts,ryan.roberts386@examplemail.com,Nottingham,NG1 2LH,2025-04-02,Silver,Health-focused,True
+CUST00387,Victor,Johnson,victor.johnson387@examplemail.com,Salford,M5 3DA,2023-03-20,Gold,Premium buyer,True
+CUST00388,Maya,Johnson,maya.johnson388@examplemail.com,Liverpool,L1 8BE,2024-03-14,Silver,Premium buyer,False
+CUST00389,Zara,Taylor,zara.taylor389@examplemail.com,Preston,PR1 2EK,2022-06-09,Silver,Health-focused,False
+CUST00390,Priya,Thompson,priya.thompson390@examplemail.com,Nottingham,NG1 6JH,2021-06-03,Bronze,Family shopper,True
+CUST00391,Sam,Evans,sam.evans391@examplemail.com,Preston,PR1 9HK,2024-11-24,Silver,Student,False
+CUST00392,Owen,Davies,owen.davies392@examplemail.com,Salford,M5 5JH,2025-01-02,Gold,Family shopper,False
+CUST00393,Ben,Lewis,ben.lewis393@examplemail.com,Preston,PR1 1DH,2021-08-05,Silver,Health-focused,False
+CUST00394,Farah,Roberts,farah.roberts394@examplemail.com,Nottingham,NG1 4BJ,2024-11-05,Bronze,Health-focused,True
+CUST00395,Maya,Ward,maya.ward395@examplemail.com,Salford,M5 1DL,2021-11-10,Silver,Student,False
+CUST00396,Owen,Taylor,owen.taylor396@examplemail.com,Sheffield,S1 7BG,2023-05-30,Platinum,Convenience shopper,False
+CUST00397,Sam,White,sam.white397@examplemail.com,Liverpool,L1 2LE,2022-05-07,Silver,Health-focused,True
+CUST00398,Qasim,Harris,qasim.harris398@examplemail.com,Newcastle,NE1 8HD,2024-07-09,Bronze,Budget-conscious,True
+CUST00399,Theo,Khan,theo.khan399@examplemail.com,Leeds,LS1 8GH,2021-01-03,Bronze,Budget-conscious,True
+CUST00400,Olivia,Taylor,olivia.taylor400@examplemail.com,Nottingham,NG1 4CD,2023-03-26,Silver,Budget-conscious,False
+CUST00401,Noah,Lewis,noah.lewis401@examplemail.com,Birmingham,B1 1JD,2025-09-10,Gold,Convenience shopper,False
+CUST00402,Victor,White,victor.white402@examplemail.com,Birmingham,B1 6LD,2021-12-23,Bronze,Family shopper,False
+CUST00403,Sam,Wright,sam.wright403@examplemail.com,Nottingham,NG1 8AL,2021-02-18,Bronze,Health-focused,False
+CUST00404,Hannah,Walker,hannah.walker404@examplemail.com,Newcastle,NE1 7LF,2022-07-22,Platinum,Budget-conscious,True
+CUST00405,Victor,Smith,victor.smith405@examplemail.com,Liverpool,L1 7GL,2021-02-22,Bronze,Family shopper,False
+CUST00406,Ismail,Clarke,ismail.clarke406@examplemail.com,Birmingham,B1 1CJ,2024-11-14,Gold,Health-focused,True
+CUST00407,Ella,Martin,ella.martin407@examplemail.com,Nottingham,NG1 3AF,2022-06-19,Bronze,Health-focused,True
+CUST00408,Victor,Evans,victor.evans408@examplemail.com,Manchester,M1 8DK,2023-10-14,Silver,Budget-conscious,True
+CUST00409,Ben,Edwards,ben.edwards409@examplemail.com,Salford,M5 9FD,2021-06-24,Silver,Student,False
+CUST00410,Maya,Brown,maya.brown410@examplemail.com,Manchester,M1 7BG,2022-02-16,Gold,Convenience shopper,False
+CUST00411,Ryan,Walker,ryan.walker411@examplemail.com,Liverpool,L1 3GA,2025-12-18,Silver,Premium buyer,True
+CUST00412,Nina,Wilson,nina.wilson412@examplemail.com,Salford,M5 5EG,2021-07-28,Bronze,Premium buyer,False
+CUST00413,Ben,Smith,ben.smith413@examplemail.com,Newcastle,NE1 7BH,2024-08-11,Bronze,Budget-conscious,True
+CUST00414,Kai,Brown,kai.brown414@examplemail.com,Newcastle,NE1 3EC,2024-06-24,Silver,Family shopper,True
+CUST00415,George,Roberts,george.roberts415@examplemail.com,Salford,M5 5HC,2022-04-02,Bronze,Student,False
+CUST00416,Leo,Wood,leo.wood416@examplemail.com,Newcastle,NE1 8AE,2025-11-13,Bronze,Budget-conscious,True
+CUST00417,Emma,Arief,emma.arief417@examplemail.com,Liverpool,L1 8AD,2023-12-02,Silver,Health-focused,True
+CUST00418,Sam,Jones,sam.jones418@examplemail.com,Leeds,LS1 2JD,2021-05-04,Bronze,Student,False
+CUST00419,Noah,Cooper,noah.cooper419@examplemail.com,Sheffield,S1 8CB,2024-09-03,Bronze,Premium buyer,True
+CUST00420,Kai,Thompson,kai.thompson420@examplemail.com,Preston,PR1 7CJ,2025-12-17,Bronze,Student,True
+CUST00421,Uma,Hill,uma.hill421@examplemail.com,Newcastle,NE1 4CF,2025-06-16,Silver,Student,True
+CUST00422,Victor,Arief,victor.arief422@examplemail.com,Sheffield,S1 6LE,2024-02-06,Gold,Family shopper,True
+CUST00423,Uma,Wright,uma.wright423@examplemail.com,Manchester,M1 2CE,2021-09-01,Bronze,Budget-conscious,True
+CUST00424,Qasim,Arief,qasim.arief424@examplemail.com,Salford,M5 9GD,2026-01-23,Bronze,Convenience shopper,True
+CUST00425,Olivia,Edwards,olivia.edwards425@examplemail.com,Newcastle,NE1 8FL,2021-06-01,Bronze,Budget-conscious,False
+CUST00426,Farah,Evans,farah.evans426@examplemail.com,Nottingham,NG1 4GC,2025-10-29,Silver,Budget-conscious,True
+CUST00427,Amelia,Jones,amelia.jones427@examplemail.com,Salford,M5 3KF,2025-04-01,Bronze,Premium buyer,True
+CUST00428,Tara,Johnson,tara.johnson428@examplemail.com,Birmingham,B1 6DG,2022-04-11,Gold,Convenience shopper,True
+CUST00429,Owen,Ward,owen.ward429@examplemail.com,Liverpool,L1 7JC,2023-11-10,Silver,Premium buyer,True
+CUST00430,Chloe,Thompson,chloe.thompson430@examplemail.com,Liverpool,L1 7AA,2022-07-12,Bronze,Health-focused,True
+CUST00431,Kai,Arief,kai.arief431@examplemail.com,Sheffield,S1 9HF,2025-02-08,Bronze,Student,False
+CUST00432,Sam,Hill,sam.hill432@examplemail.com,Salford,M5 2HH,2025-08-06,Bronze,Family shopper,True
+CUST00433,Willow,Wood,willow.wood433@examplemail.com,York,YO1 2LK,2023-08-13,Bronze,Family shopper,True
+CUST00434,Olivia,Wright,olivia.wright434@examplemail.com,Manchester,M1 8LJ,2022-01-17,Gold,Student,True
+CUST00435,Ben,Green,ben.green435@examplemail.com,York,YO1 5FJ,2022-07-07,Silver,Convenience shopper,True
+CUST00436,Daniel,Morris,daniel.morris436@examplemail.com,York,YO1 5EG,2022-07-09,Gold,Student,False
+CUST00437,Adam,Wright,adam.wright437@examplemail.com,Newcastle,NE1 6JC,2021-12-11,Bronze,Family shopper,True
+CUST00438,Maya,Roberts,maya.roberts438@examplemail.com,Newcastle,NE1 1KE,2024-11-12,Silver,Premium buyer,True
+CUST00439,Willow,Johnson,willow.johnson439@examplemail.com,Leeds,LS1 8EL,2023-11-28,Bronze,Health-focused,True
+CUST00440,Olivia,Thompson,olivia.thompson440@examplemail.com,Manchester,M1 5DJ,2021-05-18,Silver,Convenience shopper,True
+CUST00441,Priya,Khan,priya.khan441@examplemail.com,Birmingham,B1 7JH,2024-01-12,Gold,Family shopper,True
+CUST00442,Ismail,Evans,ismail.evans442@examplemail.com,Sheffield,S1 3HG,2022-12-12,Silver,Health-focused,True
+CUST00443,Owen,Harris,owen.harris443@examplemail.com,Newcastle,NE1 6KG,2023-11-15,Silver,Health-focused,True
+CUST00444,Uma,Clarke,uma.clarke444@examplemail.com,Liverpool,L1 6FE,2022-06-05,Silver,Health-focused,True
+CUST00445,Lucas,Thomas,lucas.thomas445@examplemail.com,Nottingham,NG1 5BF,2024-11-13,Bronze,Health-focused,True
+CUST00446,George,Patel,george.patel446@examplemail.com,Birmingham,B1 8EJ,2021-07-16,Bronze,Health-focused,True
+CUST00447,Xavier,Thompson,xavier.thompson447@examplemail.com,Sheffield,S1 4FK,2022-08-30,Bronze,Health-focused,True
+CUST00448,Jay,Wright,jay.wright448@examplemail.com,Newcastle,NE1 6CL,2021-04-22,Bronze,Convenience shopper,True
+CUST00449,Grace,Green,grace.green449@examplemail.com,Manchester,M1 4BH,2021-10-22,Platinum,Health-focused,True
+CUST00450,Noah,Green,noah.green450@examplemail.com,Manchester,M1 2CA,2024-04-26,Silver,Budget-conscious,True
+CUST00451,Adam,Arief,adam.arief451@examplemail.com,York,YO1 5CH,2022-08-04,Gold,Family shopper,True
+CUST00452,Jade,Thomas,jade.thomas452@examplemail.com,Leeds,LS1 3AJ,2024-04-26,Bronze,Family shopper,True
+CUST00453,Kai,Smith,kai.smith453@examplemail.com,Leeds,LS1 5BD,2023-01-27,Bronze,Premium buyer,True
+CUST00454,Mia,Wright,mia.wright454@examplemail.com,Sheffield,S1 7AE,2022-07-14,Bronze,Family shopper,True
+CUST00455,Willow,Cooper,willow.cooper455@examplemail.com,Nottingham,NG1 2GK,2022-03-16,Bronze,Convenience shopper,False
+CUST00456,Qasim,Khan,qasim.khan456@examplemail.com,Preston,PR1 4DG,2023-04-12,Silver,Budget-conscious,True
+CUST00457,Theo,Evans,theo.evans457@examplemail.com,Leeds,LS1 6LG,2021-05-05,Platinum,Premium buyer,True
+CUST00458,Yasmin,Hughes,yasmin.hughes458@examplemail.com,Sheffield,S1 7GH,2022-02-08,Bronze,Student,True
+CUST00459,Kai,Wood,kai.wood459@examplemail.com,Newcastle,NE1 3DB,2024-02-08,Silver,Student,True
+CUST00460,Ismail,Khan,ismail.khan460@examplemail.com,Manchester,M1 2KB,2025-11-09,Platinum,Health-focused,False
+CUST00461,Ella,Davies,ella.davies461@examplemail.com,Newcastle,NE1 5EE,2022-07-03,Bronze,Health-focused,True
+CUST00462,Leo,Evans,leo.evans462@examplemail.com,Liverpool,L1 5JH,2021-01-17,Silver,Family shopper,True
+CUST00463,George,Ward,george.ward463@examplemail.com,Leeds,LS1 5BH,2025-09-13,Silver,Convenience shopper,True
+CUST00464,Uma,Martin,uma.martin464@examplemail.com,Newcastle,NE1 9FL,2023-12-02,Bronze,Premium buyer,True
+CUST00465,Olivia,Davies,olivia.davies465@examplemail.com,Liverpool,L1 4EB,2021-07-30,Bronze,Convenience shopper,True
+CUST00466,Willow,White,willow.white466@examplemail.com,Liverpool,L1 6DA,2025-07-27,Bronze,Convenience shopper,False
+CUST00467,Grace,Wright,grace.wright467@examplemail.com,Liverpool,L1 8HJ,2025-08-27,Bronze,Premium buyer,False
+CUST00468,Adam,Wood,adam.wood468@examplemail.com,Sheffield,S1 3JK,2022-07-21,Bronze,Health-focused,True
+CUST00469,Lucas,Evans,lucas.evans469@examplemail.com,Liverpool,L1 9DA,2025-11-10,Silver,Student,True
+CUST00470,Ella,White,ella.white470@examplemail.com,Salford,M5 3CL,2021-11-21,Gold,Family shopper,True
+CUST00471,Emma,White,emma.white471@examplemail.com,Manchester,M1 2BK,2023-08-10,Bronze,Health-focused,True
+CUST00472,Farah,Green,farah.green472@examplemail.com,Birmingham,B1 6GC,2022-11-11,Gold,Health-focused,False
+CUST00473,Zara,Ward,zara.ward473@examplemail.com,Leeds,LS1 1BL,2021-07-24,Silver,Student,False
+CUST00474,Kai,Clarke,kai.clarke474@examplemail.com,Nottingham,NG1 5JL,2023-06-11,Bronze,Budget-conscious,True
+CUST00475,Theo,Thompson,theo.thompson475@examplemail.com,Newcastle,NE1 7BL,2023-08-27,Bronze,Health-focused,True
+CUST00476,Priya,Arief,priya.arief476@examplemail.com,Newcastle,NE1 8CJ,2023-01-04,Platinum,Convenience shopper,True
+CUST00477,Ella,Wright,ella.wright477@examplemail.com,Sheffield,S1 8HH,2025-09-21,Bronze,Budget-conscious,True
+CUST00478,Mia,Walker,mia.walker478@examplemail.com,Liverpool,L1 8FK,2023-08-15,Bronze,Premium buyer,True
+CUST00479,Owen,Smith,owen.smith479@examplemail.com,Sheffield,S1 6HL,2022-05-07,Silver,Student,True
+CUST00480,Maya,Jones,maya.jones480@examplemail.com,Liverpool,L1 7KA,2022-02-12,Bronze,Convenience shopper,True
+CUST00481,Liam,Clarke,liam.clarke481@examplemail.com,Leeds,LS1 8CE,2023-04-26,Gold,Convenience shopper,True
+CUST00482,Lucas,Ward,lucas.ward482@examplemail.com,Nottingham,NG1 7DL,2023-11-05,Silver,Premium buyer,True
+CUST00483,Ryan,Cooper,ryan.cooper483@examplemail.com,York,YO1 1CF,2022-07-31,Bronze,Family shopper,True
+CUST00484,Yasmin,Harris,yasmin.harris484@examplemail.com,York,YO1 9FJ,2024-04-18,Gold,Family shopper,True
+CUST00485,Jay,Wilson,jay.wilson485@examplemail.com,Sheffield,S1 1BJ,2024-02-07,Bronze,Premium buyer,True
+CUST00486,Amelia,Clarke,amelia.clarke486@examplemail.com,Newcastle,NE1 6GA,2023-03-01,Silver,Convenience shopper,True
+CUST00487,Noah,Wood,noah.wood487@examplemail.com,Leeds,LS1 4EJ,2024-02-01,Silver,Convenience shopper,True
+CUST00488,Liam,Morris,liam.morris488@examplemail.com,Birmingham,B1 8FA,2024-12-16,Silver,Premium buyer,True
+CUST00489,Xavier,Hill,xavier.hill489@examplemail.com,Salford,M5 9GF,2022-02-04,Bronze,Health-focused,True
+CUST00490,Aisha,Green,aisha.green490@examplemail.com,York,YO1 6BB,2023-09-11,Bronze,Budget-conscious,True
+CUST00491,Zara,White,zara.white491@examplemail.com,Liverpool,L1 1EE,2024-04-07,Bronze,Health-focused,True
+CUST00492,Aisha,Jackson,aisha.jackson492@examplemail.com,Leeds,LS1 8AE,2025-11-12,Bronze,Family shopper,False
+CUST00493,Owen,Morris,owen.morris493@examplemail.com,Leeds,LS1 5AC,2021-08-12,Silver,Health-focused,True
+CUST00494,Kai,White,kai.white494@examplemail.com,Preston,PR1 2GA,2022-06-16,Silver,Health-focused,True
+CUST00495,Qasim,Harris,qasim.harris495@examplemail.com,Newcastle,NE1 9HJ,2024-02-11,Bronze,Budget-conscious,True
+CUST00496,Victor,Cooper,victor.cooper496@examplemail.com,Salford,M5 9JC,2025-03-18,Silver,Student,False
+CUST00497,Lucas,Evans,lucas.evans497@examplemail.com,Sheffield,S1 2BD,2023-09-23,Gold,Student,True
+CUST00498,Zara,Roberts,zara.roberts498@examplemail.com,Leeds,LS1 8FE,2025-11-05,Platinum,Student,True
+CUST00499,Liam,Harris,liam.harris499@examplemail.com,Newcastle,NE1 2EA,2024-01-22,Gold,Health-focused,False
+CUST00500,Noah,Thompson,noah.thompson500@examplemail.com,York,YO1 2DB,2022-12-08,Silver,Premium buyer,False
+CUST00501,Jay,Smith,jay.smith501@examplemail.com,Liverpool,L1 4BJ,2022-11-25,Bronze,Health-focused,True
+CUST00502,Xavier,Roberts,xavier.roberts502@examplemail.com,Leeds,LS1 9LB,2024-06-02,Bronze,Convenience shopper,True
+CUST00503,Adam,Evans,adam.evans503@examplemail.com,Newcastle,NE1 7FF,2025-03-05,Silver,Budget-conscious,True
+CUST00504,Ismail,Jackson,ismail.jackson504@examplemail.com,Manchester,M1 6EE,2023-10-17,Bronze,Family shopper,False
+CUST00505,George,Evans,george.evans505@examplemail.com,Leeds,LS1 9GJ,2025-01-08,Bronze,Convenience shopper,False
+CUST00506,Yasmin,Jackson,yasmin.jackson506@examplemail.com,Leeds,LS1 3EJ,2021-09-26,Bronze,Family shopper,True
+CUST00507,Daniel,Wood,daniel.wood507@examplemail.com,Sheffield,S1 8JE,2023-10-07,Silver,Budget-conscious,True
+CUST00508,Sophie,Wright,sophie.wright508@examplemail.com,Preston,PR1 6CF,2022-06-08,Bronze,Budget-conscious,True
+CUST00509,Ben,Ward,ben.ward509@examplemail.com,Birmingham,B1 9CG,2023-09-01,Bronze,Family shopper,True
+CUST00510,Adam,Evans,adam.evans510@examplemail.com,Liverpool,L1 1CH,2022-04-08,Bronze,Budget-conscious,True
+CUST00511,Amelia,Patel,amelia.patel511@examplemail.com,Nottingham,NG1 9AJ,2021-12-21,Bronze,Health-focused,True
+CUST00512,Zara,Wood,zara.wood512@examplemail.com,Manchester,M1 1GD,2021-10-08,Bronze,Health-focused,False
+CUST00513,Mia,Brown,mia.brown513@examplemail.com,Salford,M5 7KD,2023-03-07,Platinum,Family shopper,True
+CUST00514,Sam,Davies,sam.davies514@examplemail.com,Sheffield,S1 2AD,2022-12-09,Silver,Premium buyer,True
+CUST00515,Victor,Taylor,victor.taylor515@examplemail.com,Leeds,LS1 3FB,2024-05-24,Silver,Student,True
+CUST00516,Ben,Clarke,ben.clarke516@examplemail.com,Sheffield,S1 4DF,2023-01-18,Bronze,Budget-conscious,True
+CUST00517,Victor,Jones,victor.jones517@examplemail.com,Birmingham,B1 8BJ,2025-12-22,Gold,Family shopper,False
+CUST00518,Willow,Arief,willow.arief518@examplemail.com,Newcastle,NE1 9BE,2022-12-17,Gold,Convenience shopper,True
+CUST00519,Ruby,Brown,ruby.brown519@examplemail.com,Birmingham,B1 9FG,2024-04-03,Bronze,Student,True
+CUST00520,George,Johnson,george.johnson520@examplemail.com,Nottingham,NG1 2JG,2023-01-23,Gold,Family shopper,True
+CUST00521,Yasmin,White,yasmin.white521@examplemail.com,Newcastle,NE1 8HH,2023-08-25,Gold,Premium buyer,False
+CUST00522,Lucas,Green,lucas.green522@examplemail.com,Sheffield,S1 7EF,2021-12-26,Silver,Convenience shopper,True
+CUST00523,Ismail,Taylor,ismail.taylor523@examplemail.com,Salford,M5 4JC,2024-01-06,Bronze,Premium buyer,True
+CUST00524,Maya,Wood,maya.wood524@examplemail.com,Liverpool,L1 3LF,2025-02-04,Gold,Health-focused,False
+CUST00525,Adam,Martin,adam.martin525@examplemail.com,Salford,M5 9GC,2024-07-14,Gold,Student,True
+CUST00526,Emma,Patel,emma.patel526@examplemail.com,Preston,PR1 7JJ,2025-01-07,Gold,Premium buyer,True
+CUST00527,Tara,Jackson,tara.jackson527@examplemail.com,Salford,M5 2LE,2022-12-31,Silver,Premium buyer,True
+CUST00528,Mia,Brown,mia.brown528@examplemail.com,Newcastle,NE1 8AE,2025-06-24,Bronze,Health-focused,True
+CUST00529,Noah,Walker,noah.walker529@examplemail.com,Salford,M5 5LG,2022-05-27,Silver,Budget-conscious,True
+CUST00530,Maya,Harris,maya.harris530@examplemail.com,Liverpool,L1 3EG,2024-07-27,Bronze,Health-focused,False
+CUST00531,Ismail,Hughes,ismail.hughes531@examplemail.com,Liverpool,L1 4HE,2025-12-02,Silver,Premium buyer,True
+CUST00532,Theo,Green,theo.green532@examplemail.com,Salford,M5 1DE,2021-12-02,Silver,Convenience shopper,False
+CUST00533,Victor,Davies,victor.davies533@examplemail.com,Nottingham,NG1 3AC,2025-02-19,Bronze,Family shopper,False
+CUST00534,Olivia,Smith,olivia.smith534@examplemail.com,Newcastle,NE1 8KD,2024-08-19,Bronze,Health-focused,True
+CUST00535,George,Lewis,george.lewis535@examplemail.com,York,YO1 3BK,2024-03-01,Gold,Convenience shopper,True
+CUST00536,Zara,Wright,zara.wright536@examplemail.com,York,YO1 9GF,2022-01-15,Bronze,Convenience shopper,True
+CUST00537,Zara,Ward,zara.ward537@examplemail.com,Birmingham,B1 9LC,2022-10-21,Platinum,Budget-conscious,False
+CUST00538,Qasim,Patel,qasim.patel538@examplemail.com,Salford,M5 9GL,2025-02-16,Bronze,Family shopper,True
+CUST00539,Zara,Clarke,zara.clarke539@examplemail.com,Sheffield,S1 2BJ,2025-01-01,Bronze,Health-focused,True
+CUST00540,Xavier,Johnson,xavier.johnson540@examplemail.com,Liverpool,L1 3FG,2021-06-10,Silver,Convenience shopper,True
+CUST00541,Ethan,Ward,ethan.ward541@examplemail.com,Nottingham,NG1 8LG,2022-12-06,Silver,Student,True
+CUST00542,Jade,Smith,jade.smith542@examplemail.com,Nottingham,NG1 9BK,2022-10-02,Bronze,Student,True
+CUST00543,Maya,Jackson,maya.jackson543@examplemail.com,Preston,PR1 2GG,2023-09-01,Bronze,Convenience shopper,False
+CUST00544,Jay,Arief,jay.arief544@examplemail.com,Sheffield,S1 9HH,2022-12-30,Gold,Convenience shopper,False
+CUST00545,Ben,Morris,ben.morris545@examplemail.com,Newcastle,NE1 6HC,2023-12-21,Gold,Family shopper,True
+CUST00546,Amelia,Wood,amelia.wood546@examplemail.com,Liverpool,L1 3JG,2022-04-19,Bronze,Budget-conscious,False
+CUST00547,Theo,White,theo.white547@examplemail.com,Sheffield,S1 8GK,2025-06-25,Silver,Convenience shopper,True
+CUST00548,Ben,Edwards,ben.edwards548@examplemail.com,Salford,M5 7GC,2021-11-29,Gold,Budget-conscious,True
+CUST00549,Amelia,Wilson,amelia.wilson549@examplemail.com,York,YO1 9LK,2022-06-19,Bronze,Student,True
+CUST00550,Uma,Hill,uma.hill550@examplemail.com,York,YO1 2LG,2021-09-15,Silver,Budget-conscious,True
+CUST00551,George,Johnson,george.johnson551@examplemail.com,Salford,M5 8GL,2021-05-30,Silver,Student,True
+CUST00552,Owen,Roberts,owen.roberts552@examplemail.com,Salford,M5 2HC,2024-12-08,Bronze,Family shopper,False
+CUST00553,Ismail,Hughes,ismail.hughes553@examplemail.com,Liverpool,L1 9HL,2025-03-05,Bronze,Student,True
+CUST00554,Uma,Brown,uma.brown554@examplemail.com,York,YO1 7JK,2025-10-25,Silver,Convenience shopper,False
+CUST00555,Yasmin,Jackson,yasmin.jackson555@examplemail.com,Salford,M5 7EJ,2021-01-17,Gold,Budget-conscious,False
+CUST00556,Victor,Brown,victor.brown556@examplemail.com,Liverpool,L1 2KE,2024-06-13,Bronze,Student,False
+CUST00557,Emma,Jones,emma.jones557@examplemail.com,Birmingham,B1 8DA,2023-09-02,Gold,Budget-conscious,True
+CUST00558,Priya,Thomas,priya.thomas558@examplemail.com,Liverpool,L1 4KE,2025-08-05,Bronze,Health-focused,False
+CUST00559,Hannah,Jackson,hannah.jackson559@examplemail.com,Preston,PR1 7CL,2025-09-16,Bronze,Budget-conscious,True
+CUST00560,Ryan,Patel,ryan.patel560@examplemail.com,York,YO1 6GD,2024-09-29,Platinum,Family shopper,True
+CUST00561,Farah,Jackson,farah.jackson561@examplemail.com,Sheffield,S1 8HE,2024-06-02,Silver,Family shopper,False
+CUST00562,Chloe,Wilson,chloe.wilson562@examplemail.com,York,YO1 7HL,2025-03-08,Silver,Health-focused,True
+CUST00563,Victor,Johnson,victor.johnson563@examplemail.com,Sheffield,S1 5LE,2024-09-06,Gold,Family shopper,True
+CUST00564,Owen,Taylor,owen.taylor564@examplemail.com,Manchester,M1 9KC,2025-01-17,Gold,Convenience shopper,False
+CUST00565,Willow,Arief,willow.arief565@examplemail.com,Newcastle,NE1 8AF,2024-12-28,Silver,Health-focused,True
+CUST00566,Priya,Morris,priya.morris566@examplemail.com,Salford,M5 2HD,2021-08-14,Silver,Student,True
+CUST00567,Leo,Khan,leo.khan567@examplemail.com,Liverpool,L1 3DL,2022-10-06,Silver,Student,True
+CUST00568,Owen,Harris,owen.harris568@examplemail.com,Preston,PR1 2JJ,2024-06-23,Gold,Health-focused,True
+CUST00569,Ismail,Edwards,ismail.edwards569@examplemail.com,Liverpool,L1 9EL,2025-03-14,Silver,Health-focused,True
+CUST00570,Grace,Davies,grace.davies570@examplemail.com,Nottingham,NG1 9HF,2023-01-07,Silver,Student,True
+CUST00571,Daniel,Cooper,daniel.cooper571@examplemail.com,Leeds,LS1 8KK,2025-10-03,Silver,Health-focused,False
+CUST00572,Victor,Taylor,victor.taylor572@examplemail.com,Newcastle,NE1 1GH,2025-06-14,Silver,Family shopper,True
+CUST00573,Victor,Jackson,victor.jackson573@examplemail.com,Newcastle,NE1 9DG,2024-06-10,Silver,Premium buyer,True
+CUST00574,Uma,Roberts,uma.roberts574@examplemail.com,Salford,M5 2HJ,2022-05-02,Bronze,Health-focused,True
+CUST00575,Priya,Hill,priya.hill575@examplemail.com,Manchester,M1 5GC,2025-03-20,Bronze,Health-focused,False
+CUST00576,Willow,Ward,willow.ward576@examplemail.com,Salford,M5 9EJ,2021-01-16,Gold,Convenience shopper,False
+CUST00577,Tara,Smith,tara.smith577@examplemail.com,Salford,M5 5EC,2021-08-25,Bronze,Budget-conscious,True
+CUST00578,Daniel,Roberts,daniel.roberts578@examplemail.com,Preston,PR1 2LJ,2021-11-04,Bronze,Premium buyer,True
+CUST00579,Priya,Green,priya.green579@examplemail.com,Birmingham,B1 2JJ,2023-07-25,Platinum,Health-focused,True
+CUST00580,Daniel,Hill,daniel.hill580@examplemail.com,Nottingham,NG1 4KJ,2021-12-16,Platinum,Health-focused,True
+CUST00581,Ella,Walker,ella.walker581@examplemail.com,Leeds,LS1 6JJ,2023-01-11,Silver,Premium buyer,True
+CUST00582,Hannah,Taylor,hannah.taylor582@examplemail.com,Liverpool,L1 9EE,2021-03-19,Platinum,Convenience shopper,False
+CUST00583,George,Ward,george.ward583@examplemail.com,Preston,PR1 1LH,2025-02-20,Bronze,Convenience shopper,False
+CUST00584,Tara,Johnson,tara.johnson584@examplemail.com,Birmingham,B1 1CG,2025-04-03,Bronze,Premium buyer,True
+CUST00585,Mia,Davies,mia.davies585@examplemail.com,Preston,PR1 5GK,2022-02-03,Gold,Family shopper,True
+CUST00586,Hannah,Martin,hannah.martin586@examplemail.com,Preston,PR1 9CF,2025-02-12,Bronze,Convenience shopper,True
+CUST00587,Noah,Khan,noah.khan587@examplemail.com,Sheffield,S1 3BC,2023-12-12,Silver,Convenience shopper,False
+CUST00588,Lucas,Cooper,lucas.cooper588@examplemail.com,Leeds,LS1 7ED,2023-10-15,Bronze,Health-focused,True
+CUST00589,Willow,Thomas,willow.thomas589@examplemail.com,Sheffield,S1 7AG,2021-06-04,Silver,Student,True
+CUST00590,Kai,Martin,kai.martin590@examplemail.com,Manchester,M1 9JA,2022-05-14,Silver,Budget-conscious,False
+CUST00591,Ben,Cooper,ben.cooper591@examplemail.com,York,YO1 8JH,2021-12-29,Bronze,Premium buyer,True
+CUST00592,Ethan,Smith,ethan.smith592@examplemail.com,Sheffield,S1 2LE,2021-05-07,Silver,Family shopper,True
+CUST00593,Yasmin,Patel,yasmin.patel593@examplemail.com,Newcastle,NE1 8DF,2024-08-15,Bronze,Family shopper,True
+CUST00594,Tara,Edwards,tara.edwards594@examplemail.com,Newcastle,NE1 8FG,2022-02-09,Bronze,Convenience shopper,False
+CUST00595,Farah,Jones,farah.jones595@examplemail.com,Nottingham,NG1 2CL,2021-12-14,Bronze,Health-focused,True
+CUST00596,Nina,Cooper,nina.cooper596@examplemail.com,Newcastle,NE1 4DL,2022-06-15,Silver,Premium buyer,True
+CUST00597,Maya,Wright,maya.wright597@examplemail.com,Manchester,M1 2JC,2025-02-08,Bronze,Health-focused,True
+CUST00598,Willow,Khan,willow.khan598@examplemail.com,Birmingham,B1 9CA,2021-04-17,Bronze,Premium buyer,False
+CUST00599,Qasim,Brown,qasim.brown599@examplemail.com,Nottingham,NG1 5BJ,2022-07-17,Silver,Family shopper,True
+CUST00600,Qasim,Lewis,qasim.lewis600@examplemail.com,Birmingham,B1 8FA,2025-10-09,Platinum,Convenience shopper,True
+CUST00601,Adam,Harris,adam.harris601@examplemail.com,Manchester,M1 5JE,2021-01-21,Silver,Health-focused,True
+CUST00602,Daniel,Morris,daniel.morris602@examplemail.com,Newcastle,NE1 5FL,2024-09-09,Bronze,Health-focused,False
+CUST00603,Ben,Brown,ben.brown603@examplemail.com,Liverpool,L1 1BF,2025-10-25,Bronze,Budget-conscious,True
+CUST00604,Uma,Green,uma.green604@examplemail.com,Newcastle,NE1 8EJ,2023-10-04,Silver,Health-focused,True
+CUST00605,Xavier,Wood,xavier.wood605@examplemail.com,Birmingham,B1 3CG,2025-10-16,Silver,Family shopper,True
+CUST00606,Maya,Roberts,maya.roberts606@examplemail.com,Birmingham,B1 4EB,2025-07-20,Bronze,Premium buyer,False
+CUST00607,Sophie,Taylor,sophie.taylor607@examplemail.com,Salford,M5 6AL,2022-01-01,Bronze,Convenience shopper,True
+CUST00608,Ryan,Brown,ryan.brown608@examplemail.com,Manchester,M1 7CC,2021-03-22,Bronze,Health-focused,True
+CUST00609,Qasim,Martin,qasim.martin609@examplemail.com,York,YO1 3LG,2022-06-26,Bronze,Convenience shopper,True
+CUST00610,Tara,Edwards,tara.edwards610@examplemail.com,Manchester,M1 9HK,2021-10-19,Bronze,Health-focused,False
+CUST00611,Sophie,Jones,sophie.jones611@examplemail.com,Nottingham,NG1 5JJ,2023-11-08,Silver,Budget-conscious,True
+CUST00612,Sophie,Johnson,sophie.johnson612@examplemail.com,Sheffield,S1 6KC,2021-07-27,Silver,Premium buyer,True
+CUST00613,Olivia,Hughes,olivia.hughes613@examplemail.com,Salford,M5 2HG,2025-12-20,Platinum,Family shopper,False
+CUST00614,Chloe,Smith,chloe.smith614@examplemail.com,Sheffield,S1 2JD,2023-05-13,Silver,Student,True
+CUST00615,Owen,Hughes,owen.hughes615@examplemail.com,Manchester,M1 6BJ,2024-01-14,Silver,Family shopper,True
+CUST00616,Adam,Wright,adam.wright616@examplemail.com,Manchester,M1 4BC,2024-11-26,Silver,Student,True
+CUST00617,Noah,Martin,noah.martin617@examplemail.com,Newcastle,NE1 7HB,2025-11-04,Gold,Family shopper,True
+CUST00618,Ben,Johnson,ben.johnson618@examplemail.com,Leeds,LS1 4CB,2024-08-15,Platinum,Budget-conscious,True
+CUST00619,Owen,Walker,owen.walker619@examplemail.com,Manchester,M1 4BL,2025-04-27,Bronze,Convenience shopper,True
+CUST00620,Theo,Smith,theo.smith620@examplemail.com,Manchester,M1 9BH,2023-05-04,Platinum,Student,True
+CUST00621,Ruby,Jones,ruby.jones621@examplemail.com,Nottingham,NG1 4GF,2021-09-21,Gold,Student,True
+CUST00622,Noah,Brown,noah.brown622@examplemail.com,Preston,PR1 9KG,2021-10-16,Bronze,Premium buyer,False
+CUST00623,Ryan,Martin,ryan.martin623@examplemail.com,York,YO1 8AJ,2021-07-15,Silver,Budget-conscious,True
+CUST00624,Willow,Cooper,willow.cooper624@examplemail.com,Nottingham,NG1 8DB,2026-01-25,Bronze,Budget-conscious,True
+CUST00625,Uma,Jackson,uma.jackson625@examplemail.com,Newcastle,NE1 1AE,2022-03-30,Bronze,Premium buyer,True
+CUST00626,George,Patel,george.patel626@examplemail.com,Sheffield,S1 6CK,2022-06-27,Gold,Family shopper,True
+CUST00627,Qasim,Arief,qasim.arief627@examplemail.com,Nottingham,NG1 7BJ,2021-05-27,Gold,Health-focused,True
+CUST00628,Zara,White,zara.white628@examplemail.com,Nottingham,NG1 5JE,2023-09-16,Bronze,Family shopper,False
+CUST00629,Victor,Green,victor.green629@examplemail.com,Newcastle,NE1 4LA,2025-11-22,Platinum,Budget-conscious,False
+CUST00630,Priya,Clarke,priya.clarke630@examplemail.com,Preston,PR1 6KH,2024-10-08,Bronze,Convenience shopper,True
+CUST00631,Qasim,Johnson,qasim.johnson631@examplemail.com,Nottingham,NG1 7CJ,2025-09-23,Bronze,Student,False
+CUST00632,Jade,Morris,jade.morris632@examplemail.com,Liverpool,L1 8BL,2024-01-10,Silver,Budget-conscious,True
+CUST00633,Aisha,Martin,aisha.martin633@examplemail.com,Newcastle,NE1 3CL,2026-01-01,Gold,Health-focused,True
+CUST00634,Yasmin,Walker,yasmin.walker634@examplemail.com,Liverpool,L1 8HH,2024-08-20,Silver,Student,True
+CUST00635,Priya,Jones,priya.jones635@examplemail.com,Leeds,LS1 5CA,2025-06-02,Bronze,Health-focused,True
+CUST00636,Olivia,Morris,olivia.morris636@examplemail.com,Newcastle,NE1 9LK,2021-10-09,Gold,Budget-conscious,True
+CUST00637,Jay,Smith,jay.smith637@examplemail.com,Nottingham,NG1 6JK,2022-07-17,Bronze,Health-focused,False
+CUST00638,Ben,Khan,ben.khan638@examplemail.com,Newcastle,NE1 2KB,2024-03-25,Silver,Premium buyer,False
+CUST00639,Jay,Johnson,jay.johnson639@examplemail.com,York,YO1 5EC,2025-01-17,Silver,Student,True
+CUST00640,Ruby,Morris,ruby.morris640@examplemail.com,Leeds,LS1 8GJ,2025-06-13,Silver,Budget-conscious,True
+CUST00641,Mia,Ward,mia.ward641@examplemail.com,Preston,PR1 1FF,2021-06-17,Gold,Budget-conscious,True
+CUST00642,Noah,Thomas,noah.thomas642@examplemail.com,Manchester,M1 3GD,2025-06-02,Gold,Premium buyer,False
+CUST00643,Daniel,Green,daniel.green643@examplemail.com,York,YO1 5JJ,2024-11-27,Silver,Family shopper,True
+CUST00644,Hannah,Roberts,hannah.roberts644@examplemail.com,Birmingham,B1 5BE,2023-01-10,Bronze,Premium buyer,True
+CUST00645,Ryan,Jackson,ryan.jackson645@examplemail.com,Preston,PR1 5DA,2023-10-04,Silver,Student,False
+CUST00646,Liam,Hughes,liam.hughes646@examplemail.com,Birmingham,B1 9EC,2022-02-09,Bronze,Convenience shopper,True
+CUST00647,Tara,Hill,tara.hill647@examplemail.com,York,YO1 8JC,2025-04-02,Platinum,Health-focused,True
+CUST00648,Ruby,Khan,ruby.khan648@examplemail.com,Birmingham,B1 4HE,2022-05-24,Silver,Family shopper,True
+CUST00649,Aisha,Lewis,aisha.lewis649@examplemail.com,Nottingham,NG1 7CK,2021-11-10,Bronze,Health-focused,True
+CUST00650,Aisha,Harris,aisha.harris650@examplemail.com,Preston,PR1 7CL,2025-12-31,Bronze,Budget-conscious,True
+CUST00651,Ethan,Green,ethan.green651@examplemail.com,Leeds,LS1 7CK,2021-01-26,Platinum,Convenience shopper,True
+CUST00652,Ethan,Lewis,ethan.lewis652@examplemail.com,Leeds,LS1 6AA,2022-07-28,Silver,Family shopper,True
+CUST00653,Ryan,Harris,ryan.harris653@examplemail.com,Preston,PR1 9KK,2024-05-15,Silver,Convenience shopper,False
+CUST00654,Aisha,Walker,aisha.walker654@examplemail.com,Manchester,M1 1AF,2025-10-12,Gold,Family shopper,True
+CUST00655,Ruby,Roberts,ruby.roberts655@examplemail.com,Nottingham,NG1 3DE,2021-03-07,Bronze,Convenience shopper,False
+CUST00656,Noah,Wright,noah.wright656@examplemail.com,Liverpool,L1 5LL,2023-01-23,Silver,Budget-conscious,True
+CUST00657,Hannah,Ward,hannah.ward657@examplemail.com,Salford,M5 4HB,2024-09-03,Bronze,Health-focused,True
+CUST00658,Mia,Wood,mia.wood658@examplemail.com,York,YO1 5BF,2022-12-17,Bronze,Student,True
+CUST00659,Zara,Harris,zara.harris659@examplemail.com,Sheffield,S1 3HL,2025-01-02,Silver,Premium buyer,True
+CUST00660,Hannah,Smith,hannah.smith660@examplemail.com,Nottingham,NG1 7FH,2023-11-28,Gold,Budget-conscious,False
+CUST00661,Ella,Johnson,ella.johnson661@examplemail.com,Liverpool,L1 6KE,2025-04-09,Silver,Budget-conscious,True
+CUST00662,Zara,Walker,zara.walker662@examplemail.com,Manchester,M1 6BA,2024-02-27,Gold,Convenience shopper,False
+CUST00663,Sophie,Smith,sophie.smith663@examplemail.com,York,YO1 8BH,2022-04-18,Bronze,Budget-conscious,True
+CUST00664,Mia,Wilson,mia.wilson664@examplemail.com,Liverpool,L1 6DD,2026-01-22,Bronze,Student,True
+CUST00665,Aisha,Hill,aisha.hill665@examplemail.com,Preston,PR1 4HA,2022-04-29,Platinum,Convenience shopper,False
+CUST00666,Tara,Thomas,tara.thomas666@examplemail.com,Birmingham,B1 2HG,2021-09-02,Bronze,Student,False
+CUST00667,Victor,Morris,victor.morris667@examplemail.com,Salford,M5 8JL,2022-11-12,Gold,Convenience shopper,False
+CUST00668,Tara,Walker,tara.walker668@examplemail.com,Birmingham,B1 4EF,2021-07-15,Bronze,Health-focused,True
+CUST00669,Olivia,Khan,olivia.khan669@examplemail.com,Liverpool,L1 6CF,2023-05-07,Bronze,Premium buyer,True
+CUST00670,Grace,Johnson,grace.johnson670@examplemail.com,Nottingham,NG1 6BF,2022-10-08,Silver,Family shopper,False
+CUST00671,Ruby,Brown,ruby.brown671@examplemail.com,Preston,PR1 2CF,2023-05-05,Gold,Convenience shopper,True
+CUST00672,Chloe,Clarke,chloe.clarke672@examplemail.com,Newcastle,NE1 3FJ,2025-04-01,Bronze,Budget-conscious,True
+CUST00673,Ethan,Morris,ethan.morris673@examplemail.com,Nottingham,NG1 4DE,2023-06-20,Silver,Convenience shopper,True
+CUST00674,Mia,Khan,mia.khan674@examplemail.com,Sheffield,S1 9JE,2023-07-25,Gold,Health-focused,True
+CUST00675,Adam,Brown,adam.brown675@examplemail.com,Leeds,LS1 7GC,2021-11-07,Silver,Health-focused,True
+CUST00676,Yasmin,Wilson,yasmin.wilson676@examplemail.com,Newcastle,NE1 6AG,2022-06-04,Gold,Budget-conscious,True
+CUST00677,Emma,White,emma.white677@examplemail.com,Preston,PR1 2FE,2025-11-28,Platinum,Family shopper,True
+CUST00678,Jay,Johnson,jay.johnson678@examplemail.com,Newcastle,NE1 4BA,2023-02-02,Gold,Health-focused,True
+CUST00679,Sophie,Green,sophie.green679@examplemail.com,Leeds,LS1 1DF,2024-08-09,Silver,Health-focused,True
+CUST00680,Liam,Martin,liam.martin680@examplemail.com,Salford,M5 3KL,2021-10-16,Bronze,Health-focused,True
+CUST00681,Olivia,Harris,olivia.harris681@examplemail.com,York,YO1 1JJ,2024-07-03,Bronze,Premium buyer,True
+CUST00682,Farah,Brown,farah.brown682@examplemail.com,Birmingham,B1 5ED,2022-05-06,Silver,Budget-conscious,True
+CUST00683,Hannah,Hughes,hannah.hughes683@examplemail.com,Liverpool,L1 7HA,2024-04-02,Bronze,Convenience shopper,True
+CUST00684,Adam,Morris,adam.morris684@examplemail.com,Liverpool,L1 2FH,2021-12-17,Bronze,Convenience shopper,True
+CUST00685,Theo,Wood,theo.wood685@examplemail.com,Birmingham,B1 9JC,2024-03-13,Silver,Health-focused,True
+CUST00686,George,Clarke,george.clarke686@examplemail.com,Newcastle,NE1 2DL,2024-10-22,Silver,Premium buyer,True
+CUST00687,Sophie,Jones,sophie.jones687@examplemail.com,Sheffield,S1 3GK,2021-09-07,Bronze,Convenience shopper,True
+CUST00688,Maya,Wright,maya.wright688@examplemail.com,York,YO1 7JD,2026-01-11,Bronze,Premium buyer,True
+CUST00689,Ryan,Thompson,ryan.thompson689@examplemail.com,Preston,PR1 7EE,2023-04-12,Gold,Budget-conscious,True
+CUST00690,Priya,Morris,priya.morris690@examplemail.com,Nottingham,NG1 9AB,2023-03-15,Silver,Family shopper,False
+CUST00691,Priya,Wright,priya.wright691@examplemail.com,Birmingham,B1 2JB,2024-06-13,Silver,Budget-conscious,False
+CUST00692,Zara,Arief,zara.arief692@examplemail.com,York,YO1 1DD,2023-12-01,Silver,Family shopper,False
+CUST00693,Olivia,Johnson,olivia.johnson693@examplemail.com,Liverpool,L1 4KF,2024-02-28,Gold,Budget-conscious,True
+CUST00694,Grace,Walker,grace.walker694@examplemail.com,Birmingham,B1 1GJ,2026-01-22,Silver,Health-focused,True
+CUST00695,Owen,Brown,owen.brown695@examplemail.com,Preston,PR1 2CF,2022-10-07,Bronze,Health-focused,True
+CUST00696,Xavier,Evans,xavier.evans696@examplemail.com,Newcastle,NE1 4DB,2021-12-06,Bronze,Premium buyer,False
+CUST00697,Xavier,Walker,xavier.walker697@examplemail.com,Nottingham,NG1 3CC,2021-01-08,Silver,Student,True
+CUST00698,Hannah,Ward,hannah.ward698@examplemail.com,Salford,M5 3JG,2022-11-23,Bronze,Health-focused,True
+CUST00699,Theo,Roberts,theo.roberts699@examplemail.com,Birmingham,B1 1ED,2023-05-16,Bronze,Convenience shopper,False
+CUST00700,Willow,Morris,willow.morris700@examplemail.com,Salford,M5 4FJ,2024-08-14,Bronze,Convenience shopper,True
+CUST00701,Priya,Thompson,priya.thompson701@examplemail.com,Newcastle,NE1 5EE,2023-08-05,Silver,Student,True
+CUST00702,Chloe,Thomas,chloe.thomas702@examplemail.com,Leeds,LS1 9GH,2025-06-01,Silver,Premium buyer,True
+CUST00703,Aisha,Martin,aisha.martin703@examplemail.com,York,YO1 6EJ,2021-05-23,Bronze,Family shopper,False
+CUST00704,George,Patel,george.patel704@examplemail.com,Manchester,M1 2GB,2022-08-18,Silver,Health-focused,False
+CUST00705,George,Ward,george.ward705@examplemail.com,York,YO1 7EA,2022-05-27,Bronze,Premium buyer,True
+CUST00706,Aisha,Edwards,aisha.edwards706@examplemail.com,Manchester,M1 7KJ,2021-01-26,Bronze,Student,True
+CUST00707,Victor,Martin,victor.martin707@examplemail.com,Manchester,M1 8GA,2024-03-23,Platinum,Premium buyer,True
+CUST00708,Adam,White,adam.white708@examplemail.com,Birmingham,B1 9HD,2021-03-20,Bronze,Student,True
+CUST00709,Noah,Evans,noah.evans709@examplemail.com,Nottingham,NG1 3GK,2022-12-25,Bronze,Health-focused,True
+CUST00710,Sophie,Cooper,sophie.cooper710@examplemail.com,Sheffield,S1 8HJ,2025-05-17,Bronze,Health-focused,True
+CUST00711,Adam,Harris,adam.harris711@examplemail.com,Liverpool,L1 1GL,2023-02-28,Gold,Budget-conscious,True
+CUST00712,Chloe,Wilson,chloe.wilson712@examplemail.com,Newcastle,NE1 8GG,2025-05-13,Gold,Family shopper,True
+CUST00713,Adam,Jones,adam.jones713@examplemail.com,Nottingham,NG1 3GK,2021-04-18,Silver,Premium buyer,False
+CUST00714,George,Martin,george.martin714@examplemail.com,Liverpool,L1 9DB,2022-05-09,Silver,Convenience shopper,False
+CUST00715,Jade,Thomas,jade.thomas715@examplemail.com,Birmingham,B1 7FC,2025-04-09,Bronze,Family shopper,True
+CUST00716,Tara,Roberts,tara.roberts716@examplemail.com,Sheffield,S1 1EF,2025-03-15,Silver,Health-focused,True
+CUST00717,Liam,Hughes,liam.hughes717@examplemail.com,Sheffield,S1 8CL,2021-09-17,Silver,Budget-conscious,False
+CUST00718,Noah,Jackson,noah.jackson718@examplemail.com,York,YO1 7CL,2022-02-27,Bronze,Budget-conscious,True
+CUST00719,Mia,Martin,mia.martin719@examplemail.com,Liverpool,L1 4JG,2021-08-13,Silver,Premium buyer,False
+CUST00720,Mia,Edwards,mia.edwards720@examplemail.com,Nottingham,NG1 3DB,2025-05-22,Bronze,Health-focused,True
+CUST00721,Theo,Roberts,theo.roberts721@examplemail.com,York,YO1 4AK,2025-12-30,Platinum,Student,False
+CUST00722,Ruby,Khan,ruby.khan722@examplemail.com,Preston,PR1 6LG,2022-01-26,Platinum,Health-focused,True
+CUST00723,Jade,Evans,jade.evans723@examplemail.com,Liverpool,L1 1HD,2021-10-25,Bronze,Convenience shopper,True
+CUST00724,Sam,Wright,sam.wright724@examplemail.com,Nottingham,NG1 1LE,2021-10-23,Gold,Family shopper,False
+CUST00725,Emma,Roberts,emma.roberts725@examplemail.com,Salford,M5 3BD,2022-03-17,Gold,Health-focused,False
+CUST00726,George,Evans,george.evans726@examplemail.com,York,YO1 5FE,2023-07-27,Bronze,Budget-conscious,True
+CUST00727,Amelia,Arief,amelia.arief727@examplemail.com,Preston,PR1 9EK,2022-10-09,Bronze,Convenience shopper,True
+CUST00728,Ben,Lewis,ben.lewis728@examplemail.com,Leeds,LS1 5KK,2022-03-16,Silver,Health-focused,True
+CUST00729,Sam,Harris,sam.harris729@examplemail.com,Liverpool,L1 9FC,2024-08-14,Silver,Premium buyer,True
+CUST00730,Leo,Khan,leo.khan730@examplemail.com,York,YO1 6EC,2024-02-02,Platinum,Health-focused,True
+CUST00731,Sam,Walker,sam.walker731@examplemail.com,Birmingham,B1 7KE,2025-03-14,Bronze,Convenience shopper,False
+CUST00732,Kai,Brown,kai.brown732@examplemail.com,Leeds,LS1 6AA,2022-07-19,Platinum,Health-focused,False
+CUST00733,Tara,Cooper,tara.cooper733@examplemail.com,Nottingham,NG1 3CF,2022-04-13,Platinum,Student,True
+CUST00734,Lucas,Khan,lucas.khan734@examplemail.com,Nottingham,NG1 5HJ,2023-10-07,Bronze,Family shopper,False
+CUST00735,Aisha,Johnson,aisha.johnson735@examplemail.com,Birmingham,B1 9KC,2023-02-28,Bronze,Student,True
+CUST00736,Uma,Smith,uma.smith736@examplemail.com,Newcastle,NE1 3EG,2022-03-23,Bronze,Health-focused,True
+CUST00737,Ethan,White,ethan.white737@examplemail.com,York,YO1 4HD,2022-04-24,Bronze,Health-focused,True
+CUST00738,Jade,White,jade.white738@examplemail.com,Leeds,LS1 6BB,2022-02-13,Gold,Health-focused,True
+CUST00739,Kai,Thomas,kai.thomas739@examplemail.com,Leeds,LS1 3FK,2022-10-18,Gold,Student,True
+CUST00740,Grace,Clarke,grace.clarke740@examplemail.com,Manchester,M1 8LC,2022-10-31,Bronze,Student,False
+CUST00741,Amelia,Thomas,amelia.thomas741@examplemail.com,Birmingham,B1 2GB,2021-08-29,Silver,Student,True
+CUST00742,Adam,Smith,adam.smith742@examplemail.com,Newcastle,NE1 3FB,2025-06-01,Silver,Health-focused,True
+CUST00743,Victor,Patel,victor.patel743@examplemail.com,Salford,M5 1DA,2022-05-02,Bronze,Family shopper,False
+CUST00744,Nina,Khan,nina.khan744@examplemail.com,York,YO1 3KL,2024-10-07,Gold,Health-focused,True
+CUST00745,Jade,Roberts,jade.roberts745@examplemail.com,Nottingham,NG1 1AE,2021-06-05,Silver,Convenience shopper,True
+CUST00746,Ruby,Wright,ruby.wright746@examplemail.com,Preston,PR1 1BA,2021-04-26,Silver,Budget-conscious,True
+CUST00747,Adam,Clarke,adam.clarke747@examplemail.com,Nottingham,NG1 2FJ,2021-02-16,Bronze,Budget-conscious,True
+CUST00748,Mia,Jones,mia.jones748@examplemail.com,Manchester,M1 5HL,2025-03-02,Bronze,Family shopper,True
+CUST00749,Liam,Wood,liam.wood749@examplemail.com,Sheffield,S1 6JL,2021-10-27,Gold,Budget-conscious,True
+CUST00750,Daniel,Taylor,daniel.taylor750@examplemail.com,York,YO1 6BB,2023-04-03,Bronze,Student,True
+CUST00751,Hannah,Wright,hannah.wright751@examplemail.com,Birmingham,B1 2HA,2025-08-26,Silver,Family shopper,True
+CUST00752,Sophie,Jones,sophie.jones752@examplemail.com,Salford,M5 1EH,2024-05-04,Bronze,Health-focused,True
+CUST00753,Qasim,Jackson,qasim.jackson753@examplemail.com,Manchester,M1 4EL,2021-03-19,Gold,Family shopper,True
+CUST00754,Xavier,Edwards,xavier.edwards754@examplemail.com,Newcastle,NE1 6LJ,2025-10-17,Gold,Family shopper,True
+CUST00755,Liam,Jones,liam.jones755@examplemail.com,Nottingham,NG1 6GH,2025-08-16,Silver,Student,True
+CUST00756,Mia,Thomas,mia.thomas756@examplemail.com,York,YO1 7BL,2021-03-24,Bronze,Budget-conscious,False
+CUST00757,Emma,Wilson,emma.wilson757@examplemail.com,York,YO1 4JF,2024-10-18,Silver,Premium buyer,True
+CUST00758,Daniel,Arief,daniel.arief758@examplemail.com,York,YO1 7DA,2024-04-17,Bronze,Premium buyer,False
+CUST00759,Zara,Wright,zara.wright759@examplemail.com,Nottingham,NG1 8HC,2022-11-04,Silver,Premium buyer,True
+CUST00760,Ethan,Walker,ethan.walker760@examplemail.com,Preston,PR1 6BG,2024-07-05,Bronze,Health-focused,False
+CUST00761,Maya,Walker,maya.walker761@examplemail.com,Birmingham,B1 8JH,2023-01-24,Bronze,Health-focused,True
+CUST00762,Yasmin,Jones,yasmin.jones762@examplemail.com,Leeds,LS1 1JA,2024-11-19,Silver,Premium buyer,True
+CUST00763,Olivia,Jones,olivia.jones763@examplemail.com,Sheffield,S1 4AD,2023-02-25,Bronze,Premium buyer,True
+CUST00764,Ethan,Morris,ethan.morris764@examplemail.com,York,YO1 6CF,2021-03-18,Gold,Family shopper,True
+CUST00765,Willow,Edwards,willow.edwards765@examplemail.com,Salford,M5 2JH,2021-01-01,Bronze,Health-focused,True
+CUST00766,Kai,Taylor,kai.taylor766@examplemail.com,Birmingham,B1 7BL,2024-11-22,Gold,Student,True
+CUST00767,George,Lewis,george.lewis767@examplemail.com,Sheffield,S1 7JK,2025-02-02,Silver,Family shopper,True
+CUST00768,Farah,Roberts,farah.roberts768@examplemail.com,Nottingham,NG1 3KA,2024-10-06,Gold,Convenience shopper,True
+CUST00769,Jay,Morris,jay.morris769@examplemail.com,Nottingham,NG1 2AE,2024-01-09,Bronze,Health-focused,False
+CUST00770,Sam,Hughes,sam.hughes770@examplemail.com,Salford,M5 1DE,2022-06-21,Bronze,Health-focused,True
+CUST00771,Xavier,Morris,xavier.morris771@examplemail.com,Liverpool,L1 9AA,2022-01-15,Bronze,Premium buyer,True
+CUST00772,Sophie,Roberts,sophie.roberts772@examplemail.com,Liverpool,L1 2CG,2025-04-18,Platinum,Premium buyer,True
+CUST00773,Sam,Wood,sam.wood773@examplemail.com,Leeds,LS1 6GF,2025-05-23,Bronze,Health-focused,False
+CUST00774,Theo,Ward,theo.ward774@examplemail.com,Preston,PR1 8EJ,2022-05-18,Bronze,Budget-conscious,True
+CUST00775,Priya,Hill,priya.hill775@examplemail.com,York,YO1 8AA,2024-11-07,Gold,Health-focused,True
+CUST00776,Ella,Thomas,ella.thomas776@examplemail.com,Leeds,LS1 6EC,2025-07-12,Gold,Student,False
+CUST00777,George,Taylor,george.taylor777@examplemail.com,Birmingham,B1 1CB,2022-07-03,Bronze,Health-focused,True
+CUST00778,Tara,Jones,tara.jones778@examplemail.com,Liverpool,L1 1HD,2024-07-10,Silver,Convenience shopper,True
+CUST00779,Ruby,Evans,ruby.evans779@examplemail.com,Leeds,LS1 3FK,2022-12-08,Bronze,Premium buyer,True
+CUST00780,Ella,Clarke,ella.clarke780@examplemail.com,Liverpool,L1 3KG,2025-10-24,Bronze,Family shopper,True
+CUST00781,Jade,Johnson,jade.johnson781@examplemail.com,Birmingham,B1 6JL,2023-10-07,Bronze,Family shopper,True
+CUST00782,Mia,Smith,mia.smith782@examplemail.com,Salford,M5 7LF,2023-01-18,Bronze,Family shopper,False
+CUST00783,Ryan,Clarke,ryan.clarke783@examplemail.com,Newcastle,NE1 1BF,2024-11-21,Bronze,Family shopper,True
+CUST00784,Ella,Clarke,ella.clarke784@examplemail.com,Leeds,LS1 4GG,2022-05-28,Gold,Budget-conscious,True
+CUST00785,Ben,Brown,ben.brown785@examplemail.com,Liverpool,L1 8AH,2021-11-25,Bronze,Budget-conscious,True
+CUST00786,Ben,Smith,ben.smith786@examplemail.com,Manchester,M1 2ED,2021-05-30,Bronze,Premium buyer,True
+CUST00787,Qasim,White,qasim.white787@examplemail.com,Leeds,LS1 3FD,2023-03-07,Gold,Premium buyer,True
+CUST00788,Xavier,Khan,xavier.khan788@examplemail.com,Liverpool,L1 3CD,2021-02-28,Gold,Budget-conscious,True
+CUST00789,Ismail,Walker,ismail.walker789@examplemail.com,Liverpool,L1 3FJ,2021-11-10,Bronze,Health-focused,True
+CUST00790,Owen,Cooper,owen.cooper790@examplemail.com,York,YO1 2EG,2024-12-06,Bronze,Budget-conscious,True
+CUST00791,Amelia,Clarke,amelia.clarke791@examplemail.com,Salford,M5 5CE,2023-01-17,Silver,Student,True
+CUST00792,Emma,Thompson,emma.thompson792@examplemail.com,Salford,M5 6GJ,2023-07-26,Silver,Premium buyer,True
+CUST00793,Xavier,Jackson,xavier.jackson793@examplemail.com,Salford,M5 1BG,2025-08-10,Bronze,Premium buyer,True
+CUST00794,Emma,Walker,emma.walker794@examplemail.com,Birmingham,B1 8JC,2024-01-24,Silver,Student,True
+CUST00795,Tara,Green,tara.green795@examplemail.com,Manchester,M1 1HB,2025-08-27,Silver,Premium buyer,True
+CUST00796,Liam,Brown,liam.brown796@examplemail.com,Newcastle,NE1 2JD,2021-09-10,Bronze,Student,True
+CUST00797,Tara,Khan,tara.khan797@examplemail.com,Preston,PR1 5LJ,2024-06-01,Gold,Convenience shopper,True
+CUST00798,Owen,Brown,owen.brown798@examplemail.com,Liverpool,L1 1AK,2023-09-22,Bronze,Health-focused,True
+CUST00799,Aisha,Davies,aisha.davies799@examplemail.com,Preston,PR1 3GD,2025-05-24,Platinum,Family shopper,False
+CUST00800,Mia,Davies,mia.davies800@examplemail.com,Manchester,M1 5LB,2021-06-14,Bronze,Family shopper,False
