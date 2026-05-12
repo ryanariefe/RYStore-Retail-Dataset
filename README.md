@@ -1,6 +1,6 @@
 # RYStore Fictional Supermarket Dataset
 
-Generated with random_state=10. This is a fully fictional relational retail dataset for learning SQL, Python, PySpark, Power BI/Tableau, data warehousing, dashboards, and machine learning.
+This is a fully fictional relational retail dataset for learning SQL, Python, PySpark, Power BI/Tableau, data warehousing, dashboards, and machine learning.
 
 ## Tables and approximate use
 
